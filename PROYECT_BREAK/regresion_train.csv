@@ -1,405 +1,405 @@
-brand,model,case_material,strap_material,movement_type,case_diameter_(mm),case_thickness_(mm),band_width_(mm),dial_color,crystal_material,complications,price_(usd),water_resistance_numeric,power_reserve_numeric
-Hublot,Big Bang,Ceramic,Rubber,Automatic,44.0,14.5,24.0,Black,Sapphire,Chronograph,15500,100.0,72.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,9.8,20.0,Silver,Sapphire,Date,22000,50.0,60.0
-Breguet,Classique,White Gold,Leather,Automatic,39.0,10.2,22.0,Silver,Sapphire,Date,19000,30.0,45.0
-Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,41.0,12.0,20.0,Blue,Sapphire,Date,2800,300.0,38.0
-Panerai,Luminor Base Logo,Stainless Steel,Leather,Manual,44.0,10.5,22.0,Black,Sapphire,Date,3900,100.0,56.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,Date,20000,50.0,60.0
-Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,42.0,14.3,20.0,Black,Hesalite,Chronograph,5000,50.0,48.0
-Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,42.0,11.43,20.0,Black,Sapphire,Chronograph,6100,50.0,42.0
-Blancpain,Fifty Fathoms,Stainless Steel,NATO strap,Automatic,45.0,15.4,23.0,Black,Sapphire,Date,10000,300.0,120.0
-Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,40.0,12.1,20.0,Black,Sapphire,"GMT, Date",9450,100.0,70.0
-Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,36.0,12.5,20.0,Blue,Sapphire,"Date, Cyclops",7400,100.0,70.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.5,8.3,22.0,Blue,Sapphire,Date,34000,120.0,45.0
-Hublot,Big Bang,Carbon Fiber,Rubber,Automatic,44.0,14.5,25.0,Black,Sapphire,Chronograph,15000,100.0,72.0
-Hublot,Big Bang,Ceramic,Rubber,Automatic,41.0,14.6,20.0,Black,Sapphire,Chronograph,14000,100.0,42.0
-Montblanc,1858,Bronze,Leather,Automatic,44.0,12.8,22.0,Black,Sapphire,Date,5300,100.0,42.0
-Cartier,Santos-Dumont,Stainless Steel,Leather,Quartz,38.0,7.5,18.0,Silver,Sapphire,Date,3500,30.0,60.0
-Breguet,Classique,18K Rose Gold,Leather,Automatic,39.0,9.9,22.0,White,Sapphire,"Date, Moonphase",27900,30.0,65.0
-Blancpain,Fifty Fathoms,Titanium,Fabric,Automatic,45.0,15.4,23.0,Black,Sapphire,Date,14500,300.0,120.0
-Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,41.0,10.88,22.0,Blue,Sapphire,Date,11500,100.0,54.0
-Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,41.0,11.0,21.0,Blue,Sapphire,Date,22000,150.0,60.0
-Panerai,Luminor,Titanium,Leather,Manual,44.0,13.05,24.0,Black,Sapphire,Date,6900,100.0,56.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,41.0,12.3,22.0,Blue,Sapphire,"Chronograph, Moon Phase",9800,30.0,46.0
-Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,44.0,13.7,20.0,Black,Sapphire,Chronograph,6500,50.0,42.0
-Vacheron Constantin,Patrimony,18k Rose Gold,Leather,Manual,42.0,7.65,20.0,Silver,Sapphire,Date,22500,30.0,65.0
-Breitling,Superocean Heritage,Stainless Steel,Stainless Steel,Automatic,44.0,14.2,22.0,Blue,Sapphire,Date,3250,200.0,38.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,9.8,20.0,Black,Sapphire,Date,22000,50.0,60.0
-Ulysse Nardin,Marine,Stainless Steel,Leather,Automatic,42.2,14.2,22.0,Blue,Sapphire,Date,8400,100.0,60.0
-Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,Chronograph,5400,50.0,48.0
-Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,40.0,12.5,20.0,Black,Sapphire,"GMT, Date",9950,100.0,70.0
-Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,41.0,11.0,22.0,Blue,Sapphire,Date,15000,150.0,60.0
-Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,45.0,15.4,23.0,Black,Sapphire,Date,11500,300.0,120.0
-Zenith,El Primero,Stainless Steel,Leather,Automatic,42.0,12.75,20.0,Silver,Sapphire,Chronograph,6000,100.0,50.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.5,8.3,22.0,Blue,Sapphire,Date,29800,120.0,45.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,9.8,20.0,Black,Sapphire,Date,22000,50.0,60.0
-Breitling,Superocean,Stainless Steel,Rubber,Automatic,42.0,13.3,20.0,Blue,Sapphire,Date,4100,1000.0,38.0
-Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,41.0,11.0,22.0,Blue,Sapphire,Date,16300,150.0,60.0
-Hublot,Big Bang,Titanium,Rubber,Automatic,44.0,14.5,25.0,Black,Sapphire,Chronograph,16800,100.0,72.0
-Montblanc,1858 Geosphere,Stainless Steel,Leather,Automatic,42.0,11.2,22.0,Black,Sapphire,"World Time, GMT",6200,100.0,42.0
-Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,42.0,14.5,20.0,Black,Sapphire,"Chronograph, Tachymeter",4500,50.0,60.0
-Hublot,Big Bang,Ceramic,Rubber,Automatic,42.0,14.1,24.0,Black,Sapphire,"Date, Chronograph",12000,100.0,42.0
-Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,43.6,13.83,23.0,Black,Sapphire,"Date, Unidirectional Bezel",12000,300.0,120.0
-Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Quartz,32.0,9.5,15.0,Blue,Sapphire,Date,1700,300.0,60.0
-Breguet,Classique,Rose Gold,Leather,Manual,40.0,6.8,20.0,Silver,Sapphire,Date,25000,30.0,55.0
-Breitling,Superocean Heritage,Stainless Steel,Rubber,Automatic,42.0,14.35,22.0,Black,Sapphire,Date,4800,200.0,38.0
-Breguet,Classique,18k Rose Gold,Leather,Manual,39.0,8.65,20.0,Silver,Sapphire,Date,15200,30.0,40.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.0,8.3,20.0,Blue,Sapphire,Date,26000,120.0,45.0
-Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,39.0,7.58,20.0,Silver,Sapphire,Date,7500,50.0,70.0
-IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,41.0,15.3,22.0,Black,Sapphire,Date,5400,60.0,72.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,41.0,12.3,22.0,White,Sapphire,Date,9500,30.0,168.0
-Zenith,El Primero,Stainless Steel,Leather,Automatic,42.0,12.75,22.0,Silver,Sapphire,Chronograph,7500,100.0,50.0
-Jaeger-LeCoultre,Reverso,Stainless Steel,Leather,Manual,42.9,9.2,20.0,Black,Sapphire,Date,5500,30.0,45.0
-Panerai,Luminor Due,Stainless Steel,Leather,Automatic,38.0,11.2,20.0,Black,Sapphire,Date,6500,30.0,72.0
-Hublot,Classic Fusion,Titanium,Rubber,Automatic,42.0,9.3,20.0,Black,Sapphire,Date,6500,50.0,42.0
-Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,41.0,11.0,22.0,Blue,Sapphire,Date,19000,150.0,40.0
-Breguet,Classique,18K Yellow Gold,Leather,Automatic,39.0,10.2,20.0,Silver,Sapphire,Date,26000,30.0,38.0
-IWC,Pilot's Watch Mark,Stainless Steel,Leather,Automatic,41.0,12.5,20.0,Black,Sapphire,"Date, Chronograph",6800,60.0,44.0
-Breitling,Navitimer,Stainless Steel,Stainless Steel,Automatic,43.0,14.25,22.0,Black,Sapphire,Chronograph,7900,30.0,70.0
-Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,39.0,7.8,20.0,Silver,Sapphire,Date,6500,50.0,70.0
-Hublot,Big Bang,Ceramic,Rubber,Automatic,44.5,14.5,22.0,Black,Sapphire,Chronograph,15000,100.0,72.0
-Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,41.0,11.2,20.0,Silver,Sapphire,Date,8900,100.0,70.0
-Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,45.0,15.5,23.0,Black,Sapphire,Date,14000,300.0,120.0
-Piaget,Altiplano,18k White Gold,Leather,Manual,40.0,6.36,20.0,Silver,Sapphire,Date,18500,30.0,43.0
-Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,41.0,12.5,20.0,Black,Sapphire,Date,2700,300.0,38.0
-IWC,Portugieser,Stainless Steel,Alligator,Automatic,40.4,12.3,20.0,Silver,Sapphire,Date,8800,30.0,60.0
-Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,39.0,7.5,20.0,White,Sapphire,Date,6200,50.0,38.0
-Panerai,Luminor Marina,Stainless Steel,Leather,Manual,44.0,13.05,24.0,Black,Sapphire,Date,5200,300.0,56.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,10.4,20.0,Black,Sapphire,Date,21000,50.0,60.0
-Citizen,Promaster,Stainless Steel,Stainless Steel,Eco-Drive,42.0,13.0,22.0,Black,Mineral,Chronograph,1200,200.0,270.0
-Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,45.0,15.5,23.0,Black,Sapphire,Date,12500,300.0,120.0
-Breguet,Classique,Rose Gold,Leather,Manual,38.5,8.25,20.0,Silver,Sapphire,Power Reserve,23000,30.0,65.0
-Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,43.0,12.27,23.0,Black,Sapphire,Date,9800,30.0,68.0
-Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,42.0,10.88,22.0,Silver,Sapphire,Date,9200,100.0,46.0
-Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,43.0,11.48,23.0,Black,Sapphire,Date,9500,30.0,68.0
-Blancpain,Fifty Fathoms,Titanium,Rubber,Automatic,45.0,15.5,23.0,Black,Sapphire,Date,16800,300.0,120.0
-Piaget,Altiplano,White Gold,Leather,Manual,38.0,6.1,20.0,Silver,Sapphire,Date,16500,30.0,43.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,41.0,12.3,22.0,Blue,Sapphire,Date,8900,30.0,60.0
-Tudor,Black Bay,Stainless Steel,Leather,Automatic,41.0,12.7,22.0,Black,Sapphire,Date,3800,200.0,70.0
-Breitling,Superocean,Stainless Steel,Rubber,Automatic,42.0,13.32,20.0,Blue,Sapphire,Date,3850,1000.0,38.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,Date,26000,50.0,60.0
-Cartier,Santos-Dumont,Stainless Steel,Leather,Manual,31.4,7.25,18.0,Silver,Sapphire,Date,4500,30.0,60.0
-Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,41.0,11.0,22.0,Blue,Sapphire,"Date, World Time",23000,150.0,60.0
-Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,36.0,12.5,20.0,Silver,Sapphire,"Date, Cyclops Lens",8000,100.0,70.0
-Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,41.0,11.0,22.0,Blue,Sapphire,Date,19800,150.0,40.0
-Zenith,El Primero,Stainless Steel,Leather,Automatic,38.0,12.45,19.0,White,Sapphire,Chronograph,6900,100.0,50.0
-Breguet,Classique,18k White Gold,Leather,Manual,38.0,8.25,20.0,Silver,Sapphire,Date,22000,30.0,40.0
-Patek Philippe,Calatrava,Rose Gold,Leather,Manual,36.0,7.45,18.0,White,Sapphire,Date,18000,30.0,44.0
-Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,Chronograph,5350,50.0,48.0
-Hublot,Classic Fusion,Titanium,Rubber,Automatic,45.0,10.95,24.0,Blue,Sapphire,Date,7500,50.0,42.0
-Hublot,Big Bang,Ceramic,Rubber,Automatic,42.0,14.1,24.0,Black,Sapphire,Chronograph,16000,100.0,72.0
-Ulysse Nardin,Marine Torpilleur,Stainless Steel,Leather,Automatic,42.0,11.15,20.0,Blue,Sapphire,Date,7900,50.0,60.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.5,8.3,20.0,Blue,Sapphire,Date,35000,120.0,45.0
-Omega,Constellation,Stainless Steel,Stainless Steel,Automatic,39.0,10.6,20.0,Black,Sapphire,Date,4800,100.0,50.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,37.0,9.0,16.0,Blue,Sapphire,Date,18000,50.0,60.0
-Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,44.0,13.05,22.0,Black,Sapphire,Date,8900,300.0,72.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,Date,20400,50.0,60.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,41.0,12.3,22.0,Blue,Sapphire,Date,8500,30.0,60.0
-Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,Chronograph,4500,50.0,48.0
-Zenith,El Primero,Stainless Steel,Leather,Automatic,42.0,12.75,22.0,Black,Sapphire,Chronograph,6500,100.0,50.0
-Bulova,Precisionist,Stainless Steel,Stainless Steel,Quartz,46.5,17.5,24.0,Black,Mineral,Chronograph,650,300.0,60.0
-Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,45.0,15.5,23.0,Black,Sapphire,Date,12800,300.0,120.0
-Oris,Divers Sixty-Five,Stainless Steel,Leather,Automatic,40.0,12.9,20.0,Blue,Sapphire,Date,1500,100.0,38.0
-Breguet,Classique,18K White Gold,Leather,Manual,40.0,6.1,20.0,Silver,Sapphire,Date,16000,30.0,65.0
-Omega,Seamaster,Titanium,Rubber,Automatic,43.5,14.47,21.0,Blue,Sapphire,Date,5800,600.0,60.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,41.0,12.3,22.0,Silver,Sapphire,Date,8900,30.0,60.0
-Frederique Constant,Classics,Stainless Steel,Leather,Automatic,40.0,10.5,20.0,Silver,Sapphire,Date,1400,50.0,38.0
-Montblanc,Heritage,Stainless Steel,Leather,Automatic,40.0,9.85,20.0,Silver,Sapphire,Date,2750,50.0,42.0
-Piaget,Altiplano,18k Rose Gold,Leather,Manual,38.0,6.0,20.0,White,Sapphire,Date,20800,30.0,43.0
-Breguet,Classique,White Gold,Leather,Automatic,39.0,8.65,21.0,Silver,Sapphire,Date,20000,30.0,55.0
-Panerai,Luminor,Titanium,Rubber,Automatic,44.0,15.65,24.0,Black,Sapphire,Date,9600,300.0,72.0
-Zenith,Chronomaster El Primero,Stainless Steel,Leather,Automatic,38.0,12.45,20.0,Silver,Sapphire,Chronograph,6000,100.0,50.0
-Breguet,Classique,Rose Gold,Leather,Automatic,39.0,10.2,20.0,Silver,Sapphire,Date,25000,30.0,65.0
-Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,42.0,12.67,20.0,Silver,Sapphire,Chronograph,5900,50.0,42.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,9.5,20.0,Black,Sapphire,Date,19800,50.0,60.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,Date,24800,50.0,60.0
-Hublot,Classic Fusion,Titanium,Rubber,Automatic,42.0,10.5,22.0,Blue,Sapphire,Date,8500,50.0,42.0
-Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,42.0,10.88,25.0,Blue,Sapphire,Date,7500,100.0,54.0
-Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,"Chronograph, Tachymeter",4500,50.0,48.0
-Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,45.0,15.4,23.0,Black,Sapphire,Date,14000,300.0,120.0
-Zenith,Chronomaster,Stainless Steel,Leather,Automatic,38.0,12.6,20.0,Silver,Sapphire,Chronograph,7500,50.0,50.0
-Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,42.0,13.0,22.0,Silver,Sapphire,Date,7500,30.0,42.0
-IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,46.2,15.0,20.0,Black,Sapphire,Chronograph,7500,60.0,68.0
-Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,44.0,14.45,22.0,Black,Sapphire,"Date, Chronograph",6000,50.0,42.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,40.4,12.3,20.0,White,Sapphire,Date,7500,30.0,60.0
-Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,41.0,11.0,20.0,Silver,Sapphire,Date,21500,150.0,60.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,Date,24500,50.0,60.0
-Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,33.0,9.96,18.0,Silver,Sapphire,Date,6500,30.0,42.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.5,8.3,21.0,Blue,Sapphire,Date,29800,120.0,45.0
-Panerai,Luminor,Stainless Steel,Leather,Manual,44.0,13.05,24.0,Black,Sapphire,Date,6400,100.0,56.0
-Breguet,Classique,18k White Gold,Leather,Manual,40.0,6.95,20.0,White,Sapphire,Date,22500,30.0,65.0
-Panerai,Luminor,Titanium,Rubber,Automatic,44.0,13.05,24.0,Black,Sapphire,"Date, Sub Seconds",7500,300.0,72.0
-Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,44.0,12.5,22.0,Black,Sapphire,Date,9500,300.0,60.0
-Hublot,Big Bang,Titanium,Rubber,Automatic,44.0,14.5,24.0,Blue,Sapphire,Chronograph,16000,100.0,72.0
-Seiko,Prospex,Stainless Steel,Silicone,Automatic,42.3,13.4,22.0,Blue,Hardlex,Date,650,200.0,50.0
-Breitling,Avenger II,Stainless Steel,Rubber,Automatic,43.0,16.5,22.0,Black,Sapphire,"Chronograph, Date",4600,300.0,42.0
-Seiko,Prospex,Stainless Steel,Rubber,Automatic,44.3,12.9,20.0,Black,Sapphire,Date,1400,200.0,50.0
-Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,45.0,15.5,23.0,Black,Sapphire,Date,13500,300.0,120.0
-Longines,Master Collection,Stainless Steel,Leather,Automatic,38.5,9.7,20.0,Blue,Sapphire,Date,1800,30.0,64.0
-Zenith,Elite Classic,Stainless Steel,Leather,Automatic,39.0,8.15,20.0,Silver,Sapphire,Date,4900,50.0,50.0
-Panerai,Luminor,Stainless Steel,Leather,Manual,44.0,13.05,24.0,Black,Sapphire,Date,7500,100.0,56.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,41.0,12.3,22.0,Silver,Sapphire,Date,7950,30.0,60.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.5,8.3,22.0,Blue,Sapphire,Date,34000,120.0,45.0
-Cartier,Santos,Stainless Steel,Stainless Steel,Automatic,35.1,8.83,18.0,Silver,Sapphire,Date,5500,100.0,42.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,41.0,13.1,22.0,Silver,Sapphire,Date,8500,30.0,60.0
-Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,43.0,12.6,22.0,Blue,Sapphire,Date,7000,100.0,60.0
-Longines,Master Collection,Stainless Steel,Leather,Automatic,38.5,9.7,20.0,Silver,Sapphire,Date,1150,30.0,64.0
-Breguet,Classique,18K White Gold,Leather,Manual,40.0,6.95,20.0,Silver,Sapphire,Date,24000,30.0,50.0
-Sinn,U1,Stainless Steel,Rubber,Automatic,44.0,14.3,22.0,Black,Sapphire,Date,2500,1000.0,38.0
-Longines,HydroConquest,Stainless Steel,Stainless Steel,Automatic,43.0,12.75,22.0,Blue,Sapphire,Date,1400,300.0,64.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,Date,19900,50.0,60.0
-Hublot,Big Bang,Carbon Fiber,Rubber,Automatic,44.0,14.5,22.0,Black,Sapphire,Chronograph,19500,100.0,72.0
-Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,38.0,10.88,25.0,Black,Sapphire,Date,8700,100.0,46.0
-Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,Chronograph,4300,50.0,48.0
-Zenith,Chronomaster,Stainless Steel,Leather,Automatic,42.0,14.05,20.0,Silver,Sapphire,"Date, Chronograph",6000,100.0,50.0
-Breguet,Classique,Rose Gold,Leather,Automatic,38.0,8.25,20.0,Silver,Sapphire,Date,20000,30.0,45.0
-Breguet,Classique,18k White Gold,Leather,Automatic,39.0,8.65,20.0,Silver,Sapphire,Date,24500,30.0,55.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,41.0,12.3,22.0,Blue,Sapphire,"Date, Power Reserve Indicator",8500,30.0,42.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,41.5,12.3,22.0,Silver,Sapphire,Date,7800,30.0,60.0
-Breitling,Chronomat,Stainless Steel,Stainless Steel,Automatic,44.0,16.95,22.0,Blue,Sapphire,"Chronograph, Date",6900,200.0,70.0
-Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,38.0,7.58,20.0,Silver,Sapphire,Date,4500,50.0,70.0
-Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,41.0,11.0,20.0,Black,Sapphire,"Date, World Time",20200,150.0,60.0
-Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,42.0,12.67,22.0,Black,Sapphire,Chronograph,6900,50.0,42.0
-Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,44.0,14.97,22.0,Black,Sapphire,Chronograph,5800,50.0,42.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,42.3,14.2,22.0,Blue,Sapphire,Date,9100,30.0,60.0
-Cartier,Santos,Stainless Steel,Stainless Steel,Automatic,39.8,9.08,21.5,Silver,Sapphire,Date,7500,100.0,42.0
-Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,45.0,15.4,23.0,Black,Sapphire,"Date, Rotating Bezel",13500,300.0,120.0
-Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,41.0,11.0,22.0,Silver,Sapphire,Date,21500,150.0,60.0
-Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,45.0,15.5,23.0,Black,Sapphire,Date,12900,300.0,120.0
-Zenith,Elite,Stainless Steel,Leather,Automatic,40.5,9.15,20.0,Silver,Sapphire,Date,4500,50.0,50.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,40.4,12.3,20.0,Silver,Sapphire,Chronograph,7250,30.0,46.0
-Vacheron Constantin,Patrimony,18K White Gold,Leather,Manual,40.0,6.79,20.0,Silver,Sapphire,Date,18500,30.0,65.0
-Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,41.0,11.0,21.0,Blue,Sapphire,Date,17500,150.0,60.0
-Zenith,Chronomaster,Stainless Steel,Leather,Automatic,42.0,14.05,22.0,Silver,Sapphire,Chronograph,7400,50.0,50.0
-Tudor,Black Bay,Stainless Steel,Leather,Automatic,41.0,14.75,22.0,Black,Sapphire,Date,3800,200.0,70.0
-Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,43.0,11.48,22.0,White,Sapphire,Date,8500,30.0,68.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,10.4,20.0,Black,Sapphire,Date,22000,50.0,60.0
-Patek Philippe,Calatrava,18K White Gold,Leather,Manual,38.0,8.25,20.0,White,Sapphire,Date,25000,30.0,44.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.8,8.3,21.0,Blue,Sapphire,Date,29800,120.0,55.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.5,8.3,21.0,Blue,Sapphire,Date,40000,120.0,45.0
-Tudor,Black Bay GMT,Stainless Steel,Stainless Steel,Automatic,41.0,14.5,22.0,Black,Sapphire,GMT,4000,200.0,70.0
-Montblanc,1858,Stainless Steel,Leather,Manual,44.0,12.3,22.0,Black,Sapphire,Date,3500,30.0,50.0
-Chopard,Happy Sport,Stainless Steel,Stainless Steel,Quartz,30.0,7.2,15.0,Silver,Sapphire,Date,5800,30.0,60.0
-Hamilton,Khaki Field,Stainless Steel,NATO Strap,Automatic,38.0,9.7,20.0,Black,Sapphire,Date,595,100.0,80.0
-Breitling,Superocean Heritage,Stainless Steel,Leather,Automatic,42.0,14.35,20.0,Black,Sapphire,Date,4400,200.0,38.0
-Tudor,Black Bay GMT,Stainless Steel,Stainless Steel,Automatic,41.0,14.5,22.0,Black,Sapphire,GMT,4500,200.0,70.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,Date,22000,50.0,60.0
-Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,40.0,7.45,20.0,Silver,Sapphire,Date,6300,50.0,43.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,"Date, Stopwatch",25000,50.0,60.0
-Zenith,El Primero,Stainless Steel,Leather,Automatic,42.0,12.75,22.0,Black,Sapphire,Chronograph,5500,100.0,50.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,37.0,9.8,20.0,Blue,Sapphire,Date,19500,50.0,40.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,Date,19500,50.0,60.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.8,8.3,20.0,Blue,Sapphire,Date,52000,120.0,45.0
-Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,38.0,10.88,22.0,Black,Sapphire,Date,8500,100.0,46.0
-Blancpain,Fifty Fathoms,Titanium,Fabric,Automatic,45.0,15.4,23.0,Black,Sapphire,Date,12000,300.0,120.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,Date,18500,50.0,60.0
-Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,42.0,10.88,22.0,Blue,Sapphire,Date,11500,100.0,54.0
-Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,44.0,15.65,24.0,Black,Sapphire,Date,8500,300.0,72.0
-Bell & Ross,BR V2-92,Stainless Steel,Rubber,Automatic,41.0,9.7,22.0,Black,Sapphire,Date,2500,100.0,40.0
-Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,41.5,11.0,22.0,Blue,Sapphire,Date,21000,150.0,60.0
-Longines,Conquest Classic,Stainless Steel,Leather,Automatic,40.0,10.75,20.0,Silver,Sapphire,Date,1850,50.0,54.0
-Tudor,Black Bay,Stainless Steel,Leather,Automatic,41.0,12.7,22.0,Black,Sapphire,Date,3500,200.0,70.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.5,8.3,20.0,Blue,Sapphire,"Date, Chronograph",67000,120.0,55.0
-Blancpain,Fifty Fathoms,Stainless Steel,NATO Strap,Automatic,45.0,15.5,23.0,Black,Sapphire,Date,12000,300.0,120.0
-Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,45.0,15.5,23.0,Black,Sapphire,Date,10500,300.0,120.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.5,8.3,22.0,Blue,Sapphire,Date,51000,120.0,45.0
-Rado,True Thinline,High-Tech Ceramic,Leather,Quartz,39.0,5.0,22.0,Black,Sapphire,Date,1600,30.0,60.0
-Zenith,El Primero,Stainless Steel,Leather,Automatic,38.0,12.75,20.0,White,Sapphire,Chronograph,5500,100.0,50.0
-Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,41.5,11.0,21.0,Silver,Sapphire,Date,19500,150.0,40.0
-Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,42.0,13.75,20.0,Black,Sapphire,"Chronograph, Date",5300,50.0,48.0
-Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,42.0,12.8,22.0,Blue,Sapphire,Date,8500,100.0,60.0
-Seiko,Prospex,Stainless Steel,Silicone,Automatic,44.3,12.7,20.0,Blue,Sapphire,Day/Date,1200,200.0,41.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.8,8.3,20.0,Blue,Sapphire,Date,47000,120.0,45.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,Date,27000,50.0,60.0
-Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,42.0,13.2,22.0,Black,Sapphire,Date,7500,300.0,72.0
-Zenith,El Primero,Stainless Steel,Stainless Steel,Automatic,42.0,12.75,20.0,Blue,Sapphire,Chronograph,7000,100.0,50.0
-Tudor,Black Bay,Stainless Steel,Leather,Automatic,41.0,12.7,22.0,Black,Sapphire,Date,3800,200.0,70.0
-Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,42.0,13.7,20.0,Black,Hesalite,Chronograph,4950,50.0,48.0
-IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,41.0,12.8,22.0,Black,Sapphire,Date,4800,60.0,42.0
-Breguet,Classique,Rose Gold,Leather,Automatic,39.0,8.65,20.0,Silver,Sapphire,Date,23200,30.0,65.0
-A. Lange & Sohne,Saxonia,White Gold,Leather,Manual,38.5,7.8,18.0,Silver,Sapphire,Date,23000,30.0,45.0
-Hublot,Big Bang,Titanium,Rubber,Automatic,44.0,14.5,24.0,Black,Sapphire,"Chronograph, Date",16000,100.0,72.0
-Hublot,Classic Fusion,Titanium,Rubber,Automatic,45.0,10.95,22.0,Blue,Sapphire,Date,9500,50.0,42.0
-Breguet,Classique,Rose Gold,Leather,Manual,40.0,6.8,20.0,Silver,Sapphire,Date,20500,30.0,65.0
-Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,40.0,12.5,20.0,Black,Sapphire,"Date, GMT",9700,100.0,70.0
-Glashütte Original,Senator,Stainless Steel,Leather,Automatic,42.0,12.2,21.0,Silver,Sapphire,Date,9200,50.0,40.0
-Seiko,Prospex,Stainless Steel,Silicone,Automatic,44.3,13.1,22.0,Black,Hardlex,"Date, GMT",1200,200.0,50.0
-Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,44.0,13.05,24.0,Black,Sapphire,"Date, Second Time Zone",8900,300.0,72.0
-Hublot,Classic Fusion,18k King Gold,Rubber,Automatic,42.0,10.5,22.0,Blue,Sapphire,Date,20200,50.0,42.0
-Breitling,Navitimer,Stainless Steel,Stainless Steel,Automatic,43.0,14.25,22.0,Black,Sapphire,Chronograph,7900,30.0,70.0
-Breguet,Classique,18k Rose Gold,Leather,Automatic,39.0,10.2,22.0,Silver,Sapphire,Date,18000,30.0,40.0
-Zenith,El Primero,Stainless Steel,Leather,Automatic,38.0,12.4,19.0,White,Sapphire,Chronograph,6000,100.0,50.0
-Patek Philippe,Calatrava,18k Rose Gold,Leather,Manual,38.0,7.68,19.0,White,Sapphire,Date,22900,30.0,44.0
-Seiko,Prospex,Stainless Steel,Silicone,Automatic,43.0,13.2,22.0,Blue,Hardlex,Date,1300,200.0,50.0
-Bell & Ross,Aviation,Stainless Steel,Rubber,Automatic,42.0,11.5,24.0,Black,Sapphire,Chronograph,4500,100.0,42.0
-Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,44.0,12.5,22.0,Blue,Sapphire,Date,9500,100.0,60.0
-Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,"Chronograph, Tachymeter",5250,50.0,48.0
-Rolex,Datejust,Stainless Steel,Jubilee,Automatic,36.0,12.5,20.0,Black,Sapphire,Date,8000,100.0,70.0
-Hublot,Big Bang,Titanium,Rubber,Automatic,42.0,14.5,24.0,Black,Sapphire,"Chronograph, Date",8900,100.0,72.0
-Hublot,Big Bang,Titanium,Rubber,Automatic,44.0,14.5,25.0,Black,Sapphire,Chronograph,14000,100.0,72.0
-Tag Heuer,Monaco,Stainless Steel,Leather,Automatic,39.0,14.0,22.0,Blue,Sapphire,Chronograph,4950,100.0,40.0
-Longines,HydroConquest,Stainless Steel,Stainless Steel,Automatic,41.0,12.65,20.0,Black,Sapphire,Date,1800,300.0,64.0
-Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,40.0,8.8,20.0,Silver,Sapphire,Date,6500,50.0,70.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,41.0,12.3,22.0,Silver,Sapphire,Date,7950,30.0,60.0
-Zenith,El Primero,Stainless Steel,Leather,Automatic,42.0,12.75,20.0,Black,Sapphire,Chronograph,7500,100.0,50.0
-Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,40.0,8.78,20.0,Silver,Sapphire,"Date, Power Reserve Indicator",8500,50.0,70.0
-Zenith,El Primero,Stainless Steel,Leather,Automatic,42.0,12.75,20.0,White,Sapphire,"Date, Chronograph, Moon Phase",7500,100.0,50.0
-Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,39.0,7.58,20.0,Silver,Sapphire,Date,6800,50.0,43.0
-Bulgari,Octo Finissimo,Titanium,Leather,Automatic,40.0,5.15,28.0,Black,Sapphire,Date,12800,100.0,60.0
-Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,41.5,11.0,22.0,Silver,Sapphire,Date,20000,150.0,60.0
-Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,42.0,13.0,22.0,Silver,Sapphire,Date,7500,30.0,42.0
-Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,40.0,12.4,20.0,Black,Sapphire,"GMT, Date",9100,100.0,70.0
-Cartier,Ballon Bleu,18k Rose Gold,Leather,Automatic,33.0,9.96,18.0,Silver,Sapphire,Date,13200,30.0,42.0
-Longines,Master Collection,Stainless Steel,Leather,Automatic,40.0,9.35,20.0,Silver,Sapphire,Date,1500,30.0,64.0
-Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,44.0,14.4,22.0,Black,Sapphire,"Date, Chronograph, Tachymeter",6300,50.0,42.0
-Cartier,Tank Solo,Stainless Steel,Leather,Quartz,31.0,6.05,20.0,Silver,Sapphire,Date,2800,30.0,60.0
-Zenith,El Primero,Stainless Steel,Leather,Automatic,42.0,12.75,20.0,Black,Sapphire,Chronograph,6500,100.0,50.0
-Audemars Piguet,Royal Oak,Rose Gold,Leather,Automatic,37.0,9.8,20.0,Black,Sapphire,Date,38500,50.0,60.0
-IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,41.0,10.86,20.0,Black,Sapphire,Date,3800,60.0,42.0
-Patek Philippe,Calatrava,White Gold,Leather,Manual,37.0,7.7,20.0,White,Sapphire,Date,25000,30.0,44.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.5,8.3,21.0,Blue,Sapphire,Date,34000,120.0,45.0
-Rolex,Datejust,Stainless Steel,Jubilee Bracelet,Automatic,36.0,12.5,20.0,Silver,Sapphire,Date,8900,100.0,70.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,9.8,20.0,Black,Sapphire,Date,22500,50.0,60.0
-Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,42.0,13.5,20.0,Black,Sapphire,Chronograph,6500,50.0,60.0
-Panerai,Luminor Base,Stainless Steel,Leather,Manual,44.0,10.5,24.0,Black,Sapphire,Date,5800,100.0,56.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.5,8.3,22.0,Blue,Sapphire,"Date, Moon Phase",70000,120.0,45.0
-Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Quartz,43.0,10.8,21.0,Blue,Sapphire,Date,2600,300.0,60.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.8,8.3,20.0,Blue,Sapphire,"Date, Moon Phase",44500,120.0,48.0
-Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,43.0,12.13,23.0,Silver,Sapphire,Date,6200,30.0,68.0
-Zenith,El Primero,Stainless Steel,Alligator,Automatic,42.0,12.75,20.0,Silver,Sapphire,Chronograph,6500,100.0,50.0
-Cartier,Santos,Stainless Steel,Leather,Automatic,35.1,8.83,22.0,Silver,Sapphire,Date,5300,100.0,42.0
-Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,42.0,10.88,22.0,Blue,Sapphire,Date,6500,100.0,54.0
-Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,45.0,15.5,23.0,Black,Sapphire,Date,13000,300.0,120.0
-Piaget,Polo,Stainless Steel,Stainless Steel,Automatic,42.0,9.4,22.0,Blue,Sapphire,Date,10500,100.0,44.0
-Rolex,Datejust,Stainless Steel,Jubilee,Automatic,36.0,12.0,20.0,Silver,Sapphire,Date,9000,100.0,70.0
-Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,40.0,12.5,20.0,Black,Sapphire,Dual Time Zone,9500,100.0,70.0
-Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,41.0,11.0,22.0,Blue,Sapphire,Date,18000,50.0,40.0
-Breitling,Superocean,Stainless Steel,Rubber,Automatic,44.0,14.21,22.0,Blue,Sapphire,Date,3800,1000.0,38.0
-Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,45.0,15.4,23.0,Black,Sapphire,Date,12500,300.0,120.0
-Hamilton,Jazzmaster,Stainless Steel,Leather,Automatic,40.0,11.15,20.0,Silver,Sapphire,Date,1150,50.0,80.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,40.4,12.6,20.0,Silver,Sapphire,Date,7600,30.0,44.0
-Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,42.0,13.2,20.0,Black,Hesalite,"Chronograph, Tachymeter",5500,50.0,48.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,Date,17000,50.0,60.0
-Hublot,Big Bang,Ceramic,Rubber,Automatic,41.0,14.5,20.0,Black,Sapphire,Chronograph,16000,100.0,72.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.8,8.3,20.0,Blue,Sapphire,Date,38000,120.0,45.0
-Blancpain,Fifty Fathoms,Titanium,Fabric,Automatic,45.0,15.4,23.0,Black,Sapphire,Date,14000,300.0,120.0
-Tissot,Le Locle,Stainless Steel,Leather,Automatic,39.3,9.75,19.0,White,Sapphire,Date,650,30.0,38.0
-Hublot,Big Bang,Carbon Fiber,Rubber,Automatic,44.0,14.5,26.0,Black,Sapphire,Chronograph,12000,100.0,72.0
-Zenith,Chronomaster,Stainless Steel,Leather,Automatic,42.0,13.5,22.0,Blue,Sapphire,Chronograph,6500,50.0,50.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,41.0,12.3,22.0,Silver,Sapphire,"Chronograph, Date",8300,30.0,46.0
-Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,41.0,11.0,22.0,Blue,Sapphire,Date,12000,150.0,40.0
-Breguet,Classique,18k White Gold,Leather,Manual,38.0,8.65,20.0,Silver,Sapphire,Date,16000,30.0,40.0
-Zenith,Defy,Titanium,Rubber,Automatic,41.0,10.75,22.0,Blue,Sapphire,Chronograph,9500,100.0,50.0
-Breguet,Type XXI,Stainless Steel,Leather,Automatic,42.0,13.85,22.0,Silver,Sapphire,Chronograph,9500,100.0,48.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.5,8.3,20.0,Blue,Sapphire,Date,39000,120.0,45.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.0,8.3,22.0,Blue,Sapphire,Date,36000,120.0,45.0
-Bulgari,Octo Finissimo,Titanium,Titanium,Automatic,40.0,5.15,28.0,Black,Sapphire,Date,10000,30.0,55.0
-Breitling,Superocean Heritage,Stainless Steel,Leather,Automatic,42.0,14.35,20.0,Black,Sapphire,Date,4400,200.0,38.0
-Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,36.0,12.5,20.0,Black,Sapphire,Date,6500,100.0,70.0
-Ulysse Nardin,Marine,Stainless Steel,Leather,Automatic,42.2,12.6,20.0,Blue,Sapphire,Date,7500,100.0,60.0
-Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,41.5,11.0,22.0,Blue,Sapphire,Date,19000,150.0,40.0
-TAG Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,43.0,12.5,21.0,Black,Sapphire,Date,3100,300.0,38.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,Date,22000,50.0,60.0
-Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,40.0,8.8,20.0,Silver,Sapphire,Date,7500,50.0,70.0
-Tudor,Black Bay,Stainless Steel,Leather,Automatic,41.0,12.7,22.0,Black,Sapphire,Date,3600,200.0,70.0
-Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,44.0,14.4,22.0,Blue,Sapphire,"Date, Power Reserve",7500,100.0,60.0
-Tudor,Black Bay,Stainless Steel,NATO Strap,Automatic,41.0,11.9,22.0,Black,Sapphire,Date,3500,200.0,70.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.8,8.3,21.0,Blue,Sapphire,Date,62500,120.0,45.0
-Chopard,Mille Miglia,Stainless Steel,Rubber,Automatic,42.0,12.67,20.0,Black,Sapphire,"Chronograph, Date",6500,50.0,42.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,41.0,12.3,22.0,Blue,Sapphire,Date,7900,30.0,60.0
-Panerai,Luminor Marina,Stainless Steel,Leather,Manual,44.0,15.65,24.0,Black,Sapphire,Date,7200,300.0,56.0
-Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,40.0,8.5,20.0,Silver,Sapphire,"Date, Moonphase",6500,50.0,70.0
-Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,42.0,14.3,20.0,Black,Sapphire,Chronograph,5400,50.0,48.0
-Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,41.0,10.88,22.0,Black,Sapphire,Date,9700,100.0,46.0
-Longines,Master Collection,Stainless Steel,Leather,Automatic,40.0,10.25,20.0,Black,Sapphire,Date,2500,30.0,64.0
-Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,42.0,10.88,20.0,Blue,Sapphire,Date,7800,100.0,54.0
-Cartier,Ballon Bleu,18k Rose Gold,Leather,Automatic,33.0,9.96,18.0,Silver,Sapphire,Date,13000,30.0,42.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,40.4,12.3,22.0,White,Sapphire,Date,7500,30.0,60.0
-Blancpain,Fifty Fathoms,Stainless Steel,NATO Strap,Automatic,45.0,15.5,23.0,Black,Sapphire,Date,12500,300.0,120.0
-Montblanc,1858 Geosphere,Titanium,Leather,Automatic,42.0,12.8,22.0,Black,Sapphire,GMT,6500,100.0,42.0
-Tag Heuer,Monaco,Stainless Steel,Leather,Automatic,39.0,14.5,22.0,Blue,Sapphire,Chronograph,5900,100.0,42.0
-Audemars Piguet,Royal Oak,Rose Gold,Rose Gold,Automatic,41.0,9.8,20.0,Blue,Sapphire,Date,55000,50.0,60.0
-Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,45.0,15.4,23.0,Black,Sapphire,Date,11500,300.0,120.0
-Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,43.0,13.0,21.0,Blue,Sapphire,Date,3700,300.0,38.0
-Omega,Seamaster,Titanium,Rubber,Automatic,43.5,14.47,21.0,Blue,Sapphire,Date,5800,600.0,60.0
-Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,41.0,10.88,26.0,Black,Sapphire,Chronograph,12000,100.0,46.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,"Date, Power Reserve",25000,50.0,60.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.5,8.3,20.0,Blue,Sapphire,Date,29800,120.0,45.0
-Rolex,Daytona,Stainless Steel,Stainless Steel,Automatic,40.0,12.4,20.0,White,Sapphire,Chronograph,13500,100.0,72.0
-Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,42.0,12.67,20.0,Black,Sapphire,Chronograph,5600,50.0,48.0
-Omega,Speedmaster,Stainless Steel,Leather,Manual,42.0,13.7,20.0,Black,Hesalite,Chronograph,5500,50.0,48.0
-Piaget,Polo S,Stainless Steel,Stainless Steel,Automatic,42.0,9.4,24.0,Blue,Sapphire,Date,10000,100.0,50.0
-Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,44.0,15.65,24.0,Black,Sapphire,Date,6500,300.0,72.0
-Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,40.0,12.5,20.0,Black,Sapphire,"GMT, Date",9500,100.0,70.0
-Zenith,El Primero,Stainless Steel,Stainless Steel,Automatic,42.0,12.75,20.0,Blue,Sapphire,Chronograph,6900,100.0,50.0
-Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,43.0,12.48,23.0,Silver,Sapphire,Date,10000,30.0,68.0
-Hamilton,Khaki Field Auto,Stainless Steel,Leather,Automatic,38.0,9.85,20.0,Black,Sapphire,Date,545,100.0,80.0
-Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,44.0,13.05,24.0,Black,Sapphire,Date,6500,300.0,72.0
-Patek Philippe,Calatrava,White Gold,Leather,Automatic,37.0,8.5,18.0,White,Sapphire,Date,25000,30.0,45.0
-Hublot,Classic Fusion,Titanium,Rubber,Automatic,42.0,10.5,22.0,Black,Sapphire,Date,8200,50.0,42.0
-Rolex,Datejust,Stainless Steel,Jubilee Bracelet,Automatic,41.0,11.8,20.0,Blue,Sapphire,Date,9500,100.0,70.0
-Omega,Aqua Terra,Stainless Steel,Stainless Steel,Automatic,41.5,13.0,20.0,Silver,Sapphire,Date,4700,150.0,60.0
-Hublot,Big Bang,Titanium,Rubber,Automatic,44.0,14.5,22.0,Black,Sapphire,Chronograph,15000,100.0,72.0
-Sinn,104,Stainless Steel,Leather,Automatic,41.0,11.5,20.0,Black,Sapphire,Date,1400,200.0,42.0
-IWC,Portuguese,Stainless Steel,Leather,Automatic,42.3,14.2,22.0,White,Sapphire,Date,8800,30.0,60.0
-Tudor,Black Bay,Stainless Steel,Leather,Automatic,41.0,12.75,22.0,Black,Sapphire,Date,3500,200.0,70.0
-Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,36.0,12.0,20.0,Silver,Sapphire,Date,7500,100.0,70.0
-Patek Philippe,Calatrava,White Gold,Leather,Automatic,39.0,8.25,20.0,Silver,Sapphire,Date,25800,30.0,48.0
-Zenith,Elite,Stainless Steel,Leather,Automatic,40.5,8.15,22.0,White,Sapphire,Date,5500,50.0,50.0
-Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,42.0,11.43,22.0,Black,Sapphire,Chronograph,6200,50.0,48.0
-Panerai,Luminor Marina,Titanium,Rubber,Automatic,44.0,15.65,24.0,Black,Sapphire,Date,9500,300.0,72.0
-Ulysse Nardin,Marine,Titanium,Rubber,Automatic,44.0,14.5,22.0,Blue,Sapphire,Date,9500,300.0,60.0
-Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,42.2,12.6,22.0,Blue,Sapphire,Date,8900,100.0,60.0
-Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,Chronograph,5200,50.0,48.0
-Breguet,Classique,18k White Gold,Leather,Manual,38.0,7.45,20.0,Silver,Sapphire,Date,23000,30.0,65.0
-Chopard,Happy Sport,Stainless Steel,Leather,Quartz,30.0,10.5,17.0,White,Sapphire,Date,5000,30.0,60.0
-Zenith,Chronomaster,Stainless Steel,Leather,Automatic,42.0,13.1,22.0,Silver,Sapphire,Chronograph,9400,100.0,50.0
-Breguet,Classique,18K White Gold,Leather,Automatic,39.0,8.65,20.0,Silver,Sapphire,Date,19000,30.0,40.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,Date,24500,50.0,60.0
-Panerai,Luminor,Titanium,Leather,Automatic,44.0,16.15,24.0,Black,Sapphire,Date,9500,300.0,72.0
-Breitling,Superocean,Stainless Steel,Rubber,Automatic,42.0,13.32,20.0,Blue,Sapphire,Date,3600,2000.0,38.0
-Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,42.5,13.7,22.0,Blue,Sapphire,Date,20000,150.0,40.0
-Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,42.0,10.88,22.0,Blue,Sapphire,Date,9000,100.0,54.0
-Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,45.0,15.5,23.0,Black,Sapphire,Date,13500,300.0,120.0
-Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,42.0,14.5,22.0,Black,Sapphire,Date,7200,300.0,50.0
-Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,42.0,12.67,20.0,Black,Sapphire,Chronograph,5000,50.0,48.0
-Sinn,U50,German Submarine Steel,Silicone,Automatic,45.0,14.7,22.0,Black,Sapphire,Date,3350,500.0,38.0
-Montblanc,1858,Stainless Steel,Leather,Automatic,42.0,12.8,22.0,Black,Sapphire,Date,3600,100.0,38.0
-Longines,Master Collection,Stainless Steel,Leather,Automatic,38.5,9.3,20.0,Blue,Sapphire,Date,1600,30.0,42.0
-Baume & Mercier,Clifton Baumatic,Stainless Steel,Leather,Automatic,40.0,10.3,20.0,Silver,Sapphire,Date,2750,50.0,120.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.8,8.3,21.0,Blue,Sapphire,Date,51000,120.0,55.0
-Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,45.0,15.5,23.0,Black,Sapphire,Date,14900,300.0,120.0
-Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,40.0,12.5,20.0,Black,Sapphire,GMT,14000,100.0,48.0
-Audemars Piguet,Royal Oak,Rose Gold,Rose Gold,Automatic,37.0,9.8,18.0,Blue,Sapphire,Date,36500,50.0,60.0
-Chopard,Mille Miglia,Stainless Steel,Rubber,Automatic,42.0,13.07,20.0,Black,Sapphire,Chronograph,6800,50.0,48.0
-Tissot,Le Locle,Stainless Steel,Leather,Automatic,39.3,9.75,20.0,Silver,Sapphire,Date,650,30.0,38.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,41.0,12.3,22.0,Blue,Sapphire,Date,6900,30.0,60.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,42.3,14.2,22.0,White,Sapphire,Chronograph,7800,30.0,46.0
-Bulgari,Octo Finissimo,Titanium,Leather,Automatic,40.0,5.5,21.0,Black,Sapphire,Date,10000,30.0,55.0
-Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,45.0,15.5,23.0,Black,Sapphire,"Date, Power Reserve Indicator",11000,300.0,120.0
-IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,41.0,10.8,20.0,Black,Sapphire,"Date, Stopwatch",5500,60.0,42.0
-IWC,Pilot's Watch Mark XVIII,Stainless Steel,Leather,Automatic,40.0,10.8,20.0,Black,Sapphire,Date,3900,60.0,42.0
-Montblanc,Star Legacy,Stainless Steel,Leather,Automatic,42.0,11.4,22.0,White,Sapphire,"Date, Moonphase",3900,50.0,42.0
-Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,41.0,11.8,21.0,Blue,Sapphire,Date,7800,100.0,70.0
-Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,40.8,8.3,20.0,Blue,Sapphire,Date,57000,120.0,45.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,9.8,20.0,Black,Sapphire,Date,23100,50.0,60.0
-IWC,Portugieser,Stainless Steel,Leather,Automatic,41.0,12.3,22.0,Silver,Sapphire,Date,7500,30.0,46.0
-Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,41.5,11.0,22.0,Blue,Sapphire,Date,18900,150.0,40.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,Date,28500,50.0,60.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,10.4,20.0,Silver,Sapphire,Date,21000,50.0,60.0
-Zenith,El Primero,Stainless Steel,Leather,Automatic,42.0,12.75,20.0,White,Sapphire,"Chronograph, Date",7900,100.0,50.0
-Jaeger-LeCoultre,Reverso,Stainless Steel,Leather,Manual,42.9,9.2,20.0,Black,Sapphire,Date,5500,30.0,45.0
-Zenith,El Primero,Stainless Steel,Leather,Automatic,38.0,12.45,20.0,Silver,Sapphire,Chronograph,6200,100.0,50.0
-Piaget,Altiplano,White Gold,Leather,Manual,40.0,6.36,20.0,Silver,Sapphire,Date,22000,30.0,44.0
-Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,42.0,13.5,20.0,Black,Sapphire,Chronograph,6800,50.0,60.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,Date,28500,50.0,60.0
-Breguet,Classique,18K Rose Gold,Leather,Automatic,40.0,6.8,20.0,White,Sapphire,Date,19000,30.0,55.0
-Frederique Constant,Classics,Stainless Steel,Leather,Automatic,40.0,10.6,20.0,Silver,Sapphire,Date,1200,50.0,38.0
-Tudor,Black Bay,Stainless Steel,Leather,Automatic,41.0,11.9,22.0,Black,Sapphire,Date,3500,200.0,70.0
-Panerai,Luminor,Titanium,Rubber,Automatic,44.0,13.05,24.0,Black,Sapphire,Date,8500,300.0,72.0
-Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,39.0,9.4,20.0,Blue,Sapphire,"Date, Power Reserve Indicator",18900,50.0,60.0
-Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,41.0,11.0,22.0,Blue,Sapphire,"Date, Power Reserve",21000,150.0,40.0
-TAG Heuer,Monaco,Stainless Steel,Leather,Automatic,39.0,14.0,22.0,Blue,Sapphire,Chronograph,6550,100.0,42.0
-Cartier,Santos-Dumont,18K Yellow Gold,Leather,Manual,27.5,6.5,18.0,Silver,Sapphire,Date,14200,30.0,60.0
-Breguet,Classique,18k Rose Gold,Leather,Manual,39.0,10.2,22.0,Silver,Sapphire,Date,26000,30.0,40.0
-Longines,Conquest VHP,Stainless Steel,Stainless Steel,Quartz,41.0,12.1,20.0,Black,Sapphire,"Chronograph, Date",1500,50.0,60.0
+strap_material,movement_type,case_diameter_(mm),case_thickness_(mm),band_width_(mm),dial_color,crystal_material,price_(usd),water_resistance_numeric,power_reserve_numeric,price_category,brand_group,model_group,complications_group,case_material_group
+Rubber,Automatic,44.0,14.5,24.0,Black,Sapphire,15500,100.0,72.0,10K-25K,10K-25K,10K-25K,Chronograph,Other
+Stainless Steel,Automatic,41.0,9.8,20.0,Other,Sapphire,22000,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,39.0,10.2,22.0,Other,Sapphire,19000,30.0,45.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Stainless Steel,Automatic,41.0,12.0,20.0,Blue,Sapphire,2800,300.0,38.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Manual,44.0,10.5,22.0,Black,Sapphire,3900,100.0,56.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,20000,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,42.0,14.3,20.0,Black,Hesalite,5000,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,42.0,11.43,20.0,Black,Sapphire,6100,50.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Other,Automatic,45.0,15.4,23.0,Black,Sapphire,10000,300.0,120.0,2.5K-10K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,40.0,12.1,20.0,Black,Sapphire,9450,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,36.0,12.5,20.0,Blue,Sapphire,7400,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,40.5,8.3,22.0,Blue,Sapphire,34000,120.0,45.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Rubber,Automatic,44.0,14.5,25.0,Black,Sapphire,15000,100.0,72.0,10K-25K,10K-25K,10K-25K,Chronograph,Other
+Rubber,Automatic,41.0,14.6,20.0,Black,Sapphire,14000,100.0,42.0,10K-25K,10K-25K,10K-25K,Chronograph,Other
+Leather,Automatic,44.0,12.8,22.0,Black,Sapphire,5300,100.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Other
+Leather,Quartz,38.0,7.5,18.0,Other,Sapphire,3500,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,39.0,9.9,22.0,White,Sapphire,27900,30.0,65.0,25K-50K,10K-25K,10K-25K,Date,Gold
+Other,Automatic,45.0,15.4,23.0,Black,Sapphire,14500,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Titanium
+Stainless Steel,Automatic,41.0,10.88,22.0,Blue,Sapphire,11500,100.0,54.0,10K-25K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,41.0,11.0,21.0,Blue,Sapphire,22000,150.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Manual,44.0,13.05,24.0,Black,Sapphire,6900,100.0,56.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Titanium
+Leather,Automatic,41.0,12.3,22.0,Blue,Sapphire,9800,30.0,46.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,44.0,13.7,20.0,Black,Sapphire,6500,50.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Manual,42.0,7.65,20.0,Other,Sapphire,22500,30.0,65.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Stainless Steel,Automatic,44.0,14.2,22.0,Blue,Sapphire,3250,200.0,38.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,9.8,20.0,Black,Sapphire,22000,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,42.2,14.2,22.0,Blue,Sapphire,8400,100.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,5400,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Stainless Steel,Automatic,40.0,12.5,20.0,Black,Sapphire,9950,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,11.0,22.0,Blue,Sapphire,15000,150.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Other,Automatic,45.0,15.4,23.0,Black,Sapphire,11500,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,42.0,12.75,20.0,Other,Sapphire,6000,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Stainless Steel,Automatic,40.5,8.3,22.0,Blue,Sapphire,29800,120.0,45.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Stainless Steel,Automatic,41.0,9.8,20.0,Black,Sapphire,22000,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Rubber,Automatic,42.0,13.3,20.0,Blue,Sapphire,4100,1000.0,38.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,11.0,22.0,Blue,Sapphire,16300,150.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Rubber,Automatic,44.0,14.5,25.0,Black,Sapphire,16800,100.0,72.0,10K-25K,10K-25K,10K-25K,Chronograph,Titanium
+Leather,Automatic,42.0,11.2,22.0,Black,Sapphire,6200,100.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Other,Steel
+Stainless Steel,Automatic,42.0,14.5,20.0,Black,Sapphire,4500,50.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Rubber,Automatic,42.0,14.1,24.0,Black,Sapphire,12000,100.0,42.0,10K-25K,10K-25K,10K-25K,Mix,Other
+Other,Automatic,43.6,13.83,23.0,Black,Sapphire,12000,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Quartz,32.0,9.5,15.0,Blue,Sapphire,1700,300.0,60.0,0-2.5K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Manual,40.0,6.8,20.0,Other,Sapphire,25000,30.0,55.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Rubber,Automatic,42.0,14.35,22.0,Black,Sapphire,4800,200.0,38.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Manual,39.0,8.65,20.0,Other,Sapphire,15200,30.0,40.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Stainless Steel,Automatic,40.0,8.3,20.0,Blue,Sapphire,26000,120.0,45.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Leather,Automatic,39.0,7.58,20.0,Other,Sapphire,7500,50.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,41.0,15.3,22.0,Black,Sapphire,5400,60.0,72.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,41.0,12.3,22.0,White,Sapphire,9500,30.0,168.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,42.0,12.75,22.0,Other,Sapphire,7500,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Manual,42.9,9.2,20.0,Black,Sapphire,5500,30.0,45.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,38.0,11.2,20.0,Black,Sapphire,6500,30.0,72.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,42.0,9.3,20.0,Black,Sapphire,6500,50.0,42.0,2.5K-10K,10K-25K,2.5K-10K,Date,Titanium
+Rubber,Automatic,41.0,11.0,22.0,Blue,Sapphire,19000,150.0,40.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,39.0,10.2,20.0,Other,Sapphire,26000,30.0,38.0,25K-50K,10K-25K,10K-25K,Date,Gold
+Leather,Automatic,41.0,12.5,20.0,Black,Sapphire,6800,60.0,44.0,2.5K-10K,2.5K-10K,2.5K-10K,Mix,Steel
+Stainless Steel,Automatic,43.0,14.25,22.0,Black,Sapphire,7900,30.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,39.0,7.8,20.0,Other,Sapphire,6500,50.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,44.5,14.5,22.0,Black,Sapphire,15000,100.0,72.0,10K-25K,10K-25K,10K-25K,Chronograph,Other
+Stainless Steel,Automatic,41.0,11.2,20.0,Other,Sapphire,8900,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Other,Automatic,45.0,15.5,23.0,Black,Sapphire,14000,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Manual,40.0,6.36,20.0,Other,Sapphire,18500,30.0,43.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Stainless Steel,Automatic,41.0,12.5,20.0,Black,Sapphire,2700,300.0,38.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Other,Automatic,40.4,12.3,20.0,Other,Sapphire,8800,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,39.0,7.5,20.0,White,Sapphire,6200,50.0,38.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Manual,44.0,13.05,24.0,Black,Sapphire,5200,300.0,56.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,10.4,20.0,Black,Sapphire,21000,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Eco-Drive,42.0,13.0,22.0,Black,Mineral,1200,200.0,270.0,0-2.5K,0-2.5K,0-2.5K,Chronograph,Steel
+Other,Automatic,45.0,15.5,23.0,Black,Sapphire,12500,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Manual,38.5,8.25,20.0,Other,Sapphire,23000,30.0,65.0,10K-25K,10K-25K,10K-25K,Other,Gold
+Leather,Automatic,43.0,12.27,23.0,Black,Sapphire,9800,30.0,68.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,42.0,10.88,22.0,Other,Sapphire,9200,100.0,46.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,43.0,11.48,23.0,Black,Sapphire,9500,30.0,68.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,45.0,15.5,23.0,Black,Sapphire,16800,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Titanium
+Leather,Manual,38.0,6.1,20.0,Other,Sapphire,16500,30.0,43.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Leather,Automatic,41.0,12.3,22.0,Blue,Sapphire,8900,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,41.0,12.7,22.0,Black,Sapphire,3800,200.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,42.0,13.32,20.0,Blue,Sapphire,3850,1000.0,38.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,26000,50.0,60.0,25K-50K,10K-25K,10K-25K,Date,Steel
+Leather,Manual,31.4,7.25,18.0,Other,Sapphire,4500,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,11.0,22.0,Blue,Sapphire,23000,150.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,36.0,12.5,20.0,Other,Sapphire,8000,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,41.0,11.0,22.0,Blue,Sapphire,19800,150.0,40.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,38.0,12.45,19.0,White,Sapphire,6900,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Manual,38.0,8.25,20.0,Other,Sapphire,22000,30.0,40.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Leather,Manual,36.0,7.45,18.0,White,Sapphire,18000,30.0,44.0,10K-25K,25K-50K,10K-25K,Date,Gold
+Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,5350,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Rubber,Automatic,45.0,10.95,24.0,Blue,Sapphire,7500,50.0,42.0,2.5K-10K,10K-25K,2.5K-10K,Date,Titanium
+Rubber,Automatic,42.0,14.1,24.0,Black,Sapphire,16000,100.0,72.0,10K-25K,10K-25K,10K-25K,Chronograph,Other
+Leather,Automatic,42.0,11.15,20.0,Blue,Sapphire,7900,50.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,40.5,8.3,20.0,Blue,Sapphire,35000,120.0,45.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Stainless Steel,Automatic,39.0,10.6,20.0,Black,Sapphire,4800,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,37.0,9.0,16.0,Blue,Sapphire,18000,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,44.0,13.05,22.0,Black,Sapphire,8900,300.0,72.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,20400,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,41.0,12.3,22.0,Blue,Sapphire,8500,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,4500,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,42.0,12.75,22.0,Black,Sapphire,6500,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Stainless Steel,Quartz,46.5,17.5,24.0,Black,Mineral,650,300.0,60.0,0-2.5K,0-2.5K,0-2.5K,Chronograph,Steel
+Other,Automatic,45.0,15.5,23.0,Black,Sapphire,12800,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,40.0,12.9,20.0,Blue,Sapphire,1500,100.0,38.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Manual,40.0,6.1,20.0,Other,Sapphire,16000,30.0,65.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Rubber,Automatic,43.5,14.47,21.0,Blue,Sapphire,5800,600.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Titanium
+Leather,Automatic,41.0,12.3,22.0,Other,Sapphire,8900,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,40.0,10.5,20.0,Other,Sapphire,1400,50.0,38.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Automatic,40.0,9.85,20.0,Other,Sapphire,2750,50.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Manual,38.0,6.0,20.0,White,Sapphire,20800,30.0,43.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Leather,Automatic,39.0,8.65,21.0,Other,Sapphire,20000,30.0,55.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Rubber,Automatic,44.0,15.65,24.0,Black,Sapphire,9600,300.0,72.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Titanium
+Leather,Automatic,38.0,12.45,20.0,Other,Sapphire,6000,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,39.0,10.2,20.0,Other,Sapphire,25000,30.0,65.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Leather,Automatic,42.0,12.67,20.0,Other,Sapphire,5900,50.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Stainless Steel,Automatic,41.0,9.5,20.0,Black,Sapphire,19800,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,24800,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Rubber,Automatic,42.0,10.5,22.0,Blue,Sapphire,8500,50.0,42.0,2.5K-10K,10K-25K,2.5K-10K,Date,Titanium
+Stainless Steel,Automatic,42.0,10.88,25.0,Blue,Sapphire,7500,100.0,54.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,4500,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Other,Automatic,45.0,15.4,23.0,Black,Sapphire,14000,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,38.0,12.6,20.0,Other,Sapphire,7500,50.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Stainless Steel,Automatic,42.0,13.0,22.0,Other,Sapphire,7500,30.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,46.2,15.0,20.0,Black,Sapphire,7500,60.0,68.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,44.0,14.45,22.0,Black,Sapphire,6000,50.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Mix,Steel
+Leather,Automatic,40.4,12.3,20.0,White,Sapphire,7500,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,11.0,20.0,Other,Sapphire,21500,150.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,24500,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,33.0,9.96,18.0,Other,Sapphire,6500,30.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,40.5,8.3,21.0,Blue,Sapphire,29800,120.0,45.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Leather,Manual,44.0,13.05,24.0,Black,Sapphire,6400,100.0,56.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Manual,40.0,6.95,20.0,White,Sapphire,22500,30.0,65.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Rubber,Automatic,44.0,13.05,24.0,Black,Sapphire,7500,300.0,72.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Titanium
+Rubber,Automatic,44.0,12.5,22.0,Black,Sapphire,9500,300.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,44.0,14.5,24.0,Blue,Sapphire,16000,100.0,72.0,10K-25K,10K-25K,10K-25K,Chronograph,Titanium
+Other,Automatic,42.3,13.4,22.0,Blue,Hardlex,650,200.0,50.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Rubber,Automatic,43.0,16.5,22.0,Black,Sapphire,4600,300.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Mix,Steel
+Rubber,Automatic,44.3,12.9,20.0,Black,Sapphire,1400,200.0,50.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Rubber,Automatic,45.0,15.5,23.0,Black,Sapphire,13500,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,38.5,9.7,20.0,Blue,Sapphire,1800,30.0,64.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Automatic,39.0,8.15,20.0,Other,Sapphire,4900,50.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Manual,44.0,13.05,24.0,Black,Sapphire,7500,100.0,56.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,41.0,12.3,22.0,Other,Sapphire,7950,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,40.5,8.3,22.0,Blue,Sapphire,34000,120.0,45.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Stainless Steel,Automatic,35.1,8.83,18.0,Other,Sapphire,5500,100.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,41.0,13.1,22.0,Other,Sapphire,8500,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,43.0,12.6,22.0,Blue,Sapphire,7000,100.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,38.5,9.7,20.0,Other,Sapphire,1150,30.0,64.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Manual,40.0,6.95,20.0,Other,Sapphire,24000,30.0,50.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Rubber,Automatic,44.0,14.3,22.0,Black,Sapphire,2500,1000.0,38.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Stainless Steel,Automatic,43.0,12.75,22.0,Blue,Sapphire,1400,300.0,64.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,19900,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Rubber,Automatic,44.0,14.5,22.0,Black,Sapphire,19500,100.0,72.0,10K-25K,10K-25K,10K-25K,Chronograph,Other
+Stainless Steel,Automatic,38.0,10.88,25.0,Black,Sapphire,8700,100.0,46.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,4300,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,42.0,14.05,20.0,Other,Sapphire,6000,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Mix,Steel
+Leather,Automatic,38.0,8.25,20.0,Other,Sapphire,20000,30.0,45.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Leather,Automatic,39.0,8.65,20.0,Other,Sapphire,24500,30.0,55.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Leather,Automatic,41.0,12.3,22.0,Blue,Sapphire,8500,30.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,41.5,12.3,22.0,Other,Sapphire,7800,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,44.0,16.95,22.0,Blue,Sapphire,6900,200.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Mix,Steel
+Leather,Automatic,38.0,7.58,20.0,Other,Sapphire,4500,50.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,11.0,20.0,Black,Sapphire,20200,150.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,42.0,12.67,22.0,Black,Sapphire,6900,50.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,44.0,14.97,22.0,Black,Sapphire,5800,50.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,42.3,14.2,22.0,Blue,Sapphire,9100,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,39.8,9.08,21.5,Other,Sapphire,7500,100.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Other,Automatic,45.0,15.4,23.0,Black,Sapphire,13500,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,41.0,11.0,22.0,Other,Sapphire,21500,150.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Rubber,Automatic,45.0,15.5,23.0,Black,Sapphire,12900,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,40.5,9.15,20.0,Other,Sapphire,4500,50.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,40.4,12.3,20.0,Other,Sapphire,7250,30.0,46.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Manual,40.0,6.79,20.0,Other,Sapphire,18500,30.0,65.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Rubber,Automatic,41.0,11.0,21.0,Blue,Sapphire,17500,150.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,42.0,14.05,22.0,Other,Sapphire,7400,50.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,41.0,14.75,22.0,Black,Sapphire,3800,200.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,43.0,11.48,22.0,White,Sapphire,8500,30.0,68.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,10.4,20.0,Black,Sapphire,22000,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Manual,38.0,8.25,20.0,White,Sapphire,25000,30.0,44.0,10K-25K,25K-50K,10K-25K,Date,Gold
+Stainless Steel,Automatic,40.8,8.3,21.0,Blue,Sapphire,29800,120.0,55.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Stainless Steel,Automatic,40.5,8.3,21.0,Blue,Sapphire,40000,120.0,45.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Stainless Steel,Automatic,41.0,14.5,22.0,Black,Sapphire,4000,200.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Other,Steel
+Leather,Manual,44.0,12.3,22.0,Black,Sapphire,3500,30.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Quartz,30.0,7.2,15.0,Other,Sapphire,5800,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Other,Automatic,38.0,9.7,20.0,Black,Sapphire,595,100.0,80.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Automatic,42.0,14.35,20.0,Black,Sapphire,4400,200.0,38.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,14.5,22.0,Black,Sapphire,4500,200.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Other,Steel
+Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,22000,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,40.0,7.45,20.0,Other,Sapphire,6300,50.0,43.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,25000,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,42.0,12.75,22.0,Black,Sapphire,5500,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Stainless Steel,Automatic,37.0,9.8,20.0,Blue,Sapphire,19500,50.0,40.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,19500,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,40.8,8.3,20.0,Blue,Sapphire,52000,120.0,45.0,50K-70K,25K-50K,25K-50K,Date,Steel
+Stainless Steel,Automatic,38.0,10.88,22.0,Black,Sapphire,8500,100.0,46.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Other,Automatic,45.0,15.4,23.0,Black,Sapphire,12000,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Titanium
+Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,18500,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,42.0,10.88,22.0,Blue,Sapphire,11500,100.0,54.0,10K-25K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,44.0,15.65,24.0,Black,Sapphire,8500,300.0,72.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,41.0,9.7,22.0,Black,Sapphire,2500,100.0,40.0,0-2.5K,2.5K-10K,0-2.5K,Date,Steel
+Stainless Steel,Automatic,41.5,11.0,22.0,Blue,Sapphire,21000,150.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,40.0,10.75,20.0,Other,Sapphire,1850,50.0,54.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Automatic,41.0,12.7,22.0,Black,Sapphire,3500,200.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,40.5,8.3,20.0,Blue,Sapphire,67000,120.0,55.0,50K-70K,25K-50K,25K-50K,Mix,Steel
+Other,Automatic,45.0,15.5,23.0,Black,Sapphire,12000,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Other,Automatic,45.0,15.5,23.0,Black,Sapphire,10500,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,40.5,8.3,22.0,Blue,Sapphire,51000,120.0,45.0,50K-70K,25K-50K,25K-50K,Date,Steel
+Leather,Quartz,39.0,5.0,22.0,Black,Sapphire,1600,30.0,60.0,0-2.5K,0-2.5K,0-2.5K,Date,Other
+Leather,Automatic,38.0,12.75,20.0,White,Sapphire,5500,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Rubber,Automatic,41.5,11.0,21.0,Other,Sapphire,19500,150.0,40.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,42.0,13.75,20.0,Black,Sapphire,5300,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Mix,Steel
+Rubber,Automatic,42.0,12.8,22.0,Blue,Sapphire,8500,100.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Other,Automatic,44.3,12.7,20.0,Blue,Sapphire,1200,200.0,41.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Stainless Steel,Automatic,40.8,8.3,20.0,Blue,Sapphire,47000,120.0,45.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,27000,50.0,60.0,25K-50K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,42.0,13.2,22.0,Black,Sapphire,7500,300.0,72.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,42.0,12.75,20.0,Blue,Sapphire,7000,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,41.0,12.7,22.0,Black,Sapphire,3800,200.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,42.0,13.7,20.0,Black,Hesalite,4950,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,41.0,12.8,22.0,Black,Sapphire,4800,60.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,39.0,8.65,20.0,Other,Sapphire,23200,30.0,65.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Leather,Manual,38.5,7.8,18.0,Other,Sapphire,23000,30.0,45.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Rubber,Automatic,44.0,14.5,24.0,Black,Sapphire,16000,100.0,72.0,10K-25K,10K-25K,10K-25K,Mix,Titanium
+Rubber,Automatic,45.0,10.95,22.0,Blue,Sapphire,9500,50.0,42.0,2.5K-10K,10K-25K,2.5K-10K,Date,Titanium
+Leather,Manual,40.0,6.8,20.0,Other,Sapphire,20500,30.0,65.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Stainless Steel,Automatic,40.0,12.5,20.0,Black,Sapphire,9700,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,42.0,12.2,21.0,Other,Sapphire,9200,50.0,40.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Other,Automatic,44.3,13.1,22.0,Black,Hardlex,1200,200.0,50.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Automatic,44.0,13.05,24.0,Black,Sapphire,8900,300.0,72.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,42.0,10.5,22.0,Blue,Sapphire,20200,50.0,42.0,10K-25K,10K-25K,2.5K-10K,Date,Gold
+Stainless Steel,Automatic,43.0,14.25,22.0,Black,Sapphire,7900,30.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,39.0,10.2,22.0,Other,Sapphire,18000,30.0,40.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Leather,Automatic,38.0,12.4,19.0,White,Sapphire,6000,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Manual,38.0,7.68,19.0,White,Sapphire,22900,30.0,44.0,10K-25K,25K-50K,10K-25K,Date,Gold
+Other,Automatic,43.0,13.2,22.0,Blue,Hardlex,1300,200.0,50.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Rubber,Automatic,42.0,11.5,24.0,Black,Sapphire,4500,100.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Rubber,Automatic,44.0,12.5,22.0,Blue,Sapphire,9500,100.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,5250,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Other,Automatic,36.0,12.5,20.0,Black,Sapphire,8000,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,42.0,14.5,24.0,Black,Sapphire,8900,100.0,72.0,2.5K-10K,10K-25K,10K-25K,Mix,Titanium
+Rubber,Automatic,44.0,14.5,25.0,Black,Sapphire,14000,100.0,72.0,10K-25K,10K-25K,10K-25K,Chronograph,Titanium
+Leather,Automatic,39.0,14.0,22.0,Blue,Sapphire,4950,100.0,40.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Stainless Steel,Automatic,41.0,12.65,20.0,Black,Sapphire,1800,300.0,64.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Automatic,40.0,8.8,20.0,Other,Sapphire,6500,50.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,41.0,12.3,22.0,Other,Sapphire,7950,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,42.0,12.75,20.0,Black,Sapphire,7500,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,40.0,8.78,20.0,Other,Sapphire,8500,50.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,42.0,12.75,20.0,White,Sapphire,7500,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Mix,Steel
+Leather,Automatic,39.0,7.58,20.0,Other,Sapphire,6800,50.0,43.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,40.0,5.15,28.0,Black,Sapphire,12800,100.0,60.0,10K-25K,2.5K-10K,2.5K-10K,Date,Titanium
+Stainless Steel,Automatic,41.5,11.0,22.0,Other,Sapphire,20000,150.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,42.0,13.0,22.0,Other,Sapphire,7500,30.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,40.0,12.4,20.0,Black,Sapphire,9100,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,33.0,9.96,18.0,Other,Sapphire,13200,30.0,42.0,10K-25K,2.5K-10K,2.5K-10K,Date,Gold
+Leather,Automatic,40.0,9.35,20.0,Other,Sapphire,1500,30.0,64.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Automatic,44.0,14.4,22.0,Black,Sapphire,6300,50.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Mix,Steel
+Leather,Quartz,31.0,6.05,20.0,Other,Sapphire,2800,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,42.0,12.75,20.0,Black,Sapphire,6500,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,37.0,9.8,20.0,Black,Sapphire,38500,50.0,60.0,25K-50K,10K-25K,10K-25K,Date,Gold
+Leather,Automatic,41.0,10.86,20.0,Black,Sapphire,3800,60.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Manual,37.0,7.7,20.0,White,Sapphire,25000,30.0,44.0,10K-25K,25K-50K,10K-25K,Date,Gold
+Stainless Steel,Automatic,40.5,8.3,21.0,Blue,Sapphire,34000,120.0,45.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Other,Automatic,36.0,12.5,20.0,Other,Sapphire,8900,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,9.8,20.0,Black,Sapphire,22500,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,42.0,13.5,20.0,Black,Sapphire,6500,50.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Manual,44.0,10.5,24.0,Black,Sapphire,5800,100.0,56.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,40.5,8.3,22.0,Blue,Sapphire,70000,120.0,45.0,50K-70K,25K-50K,25K-50K,Date,Steel
+Stainless Steel,Quartz,43.0,10.8,21.0,Blue,Sapphire,2600,300.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,40.8,8.3,20.0,Blue,Sapphire,44500,120.0,48.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Leather,Automatic,43.0,12.13,23.0,Other,Sapphire,6200,30.0,68.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Other,Automatic,42.0,12.75,20.0,Other,Sapphire,6500,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,35.1,8.83,22.0,Other,Sapphire,5300,100.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,42.0,10.88,22.0,Blue,Sapphire,6500,100.0,54.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Other,Automatic,45.0,15.5,23.0,Black,Sapphire,13000,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,42.0,9.4,22.0,Blue,Sapphire,10500,100.0,44.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Other,Automatic,36.0,12.0,20.0,Other,Sapphire,9000,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,40.0,12.5,20.0,Black,Sapphire,9500,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Other,Steel
+Stainless Steel,Automatic,41.0,11.0,22.0,Blue,Sapphire,18000,50.0,40.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Rubber,Automatic,44.0,14.21,22.0,Blue,Sapphire,3800,1000.0,38.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,45.0,15.4,23.0,Black,Sapphire,12500,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,40.0,11.15,20.0,Other,Sapphire,1150,50.0,80.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Automatic,40.4,12.6,20.0,Other,Sapphire,7600,30.0,44.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Manual,42.0,13.2,20.0,Black,Hesalite,5500,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,17000,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Rubber,Automatic,41.0,14.5,20.0,Black,Sapphire,16000,100.0,72.0,10K-25K,10K-25K,10K-25K,Chronograph,Other
+Stainless Steel,Automatic,40.8,8.3,20.0,Blue,Sapphire,38000,120.0,45.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Other,Automatic,45.0,15.4,23.0,Black,Sapphire,14000,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Titanium
+Leather,Automatic,39.3,9.75,19.0,White,Sapphire,650,30.0,38.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Rubber,Automatic,44.0,14.5,26.0,Black,Sapphire,12000,100.0,72.0,10K-25K,10K-25K,10K-25K,Chronograph,Other
+Leather,Automatic,42.0,13.5,22.0,Blue,Sapphire,6500,50.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,41.0,12.3,22.0,Other,Sapphire,8300,30.0,46.0,2.5K-10K,2.5K-10K,2.5K-10K,Mix,Steel
+Rubber,Automatic,41.0,11.0,22.0,Blue,Sapphire,12000,150.0,40.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Manual,38.0,8.65,20.0,Other,Sapphire,16000,30.0,40.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Rubber,Automatic,41.0,10.75,22.0,Blue,Sapphire,9500,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Titanium
+Leather,Automatic,42.0,13.85,22.0,Other,Sapphire,9500,100.0,48.0,2.5K-10K,10K-25K,2.5K-10K,Chronograph,Steel
+Stainless Steel,Automatic,40.5,8.3,20.0,Blue,Sapphire,39000,120.0,45.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Stainless Steel,Automatic,40.0,8.3,22.0,Blue,Sapphire,36000,120.0,45.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Other,Automatic,40.0,5.15,28.0,Black,Sapphire,10000,30.0,55.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Titanium
+Leather,Automatic,42.0,14.35,20.0,Black,Sapphire,4400,200.0,38.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,36.0,12.5,20.0,Black,Sapphire,6500,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,42.2,12.6,20.0,Blue,Sapphire,7500,100.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.5,11.0,22.0,Blue,Sapphire,19000,150.0,40.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,43.0,12.5,21.0,Black,Sapphire,3100,300.0,38.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,22000,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,40.0,8.8,20.0,Other,Sapphire,7500,50.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,41.0,12.7,22.0,Black,Sapphire,3600,200.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,44.0,14.4,22.0,Blue,Sapphire,7500,100.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Other,Automatic,41.0,11.9,22.0,Black,Sapphire,3500,200.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,40.8,8.3,21.0,Blue,Sapphire,62500,120.0,45.0,50K-70K,25K-50K,25K-50K,Date,Steel
+Rubber,Automatic,42.0,12.67,20.0,Black,Sapphire,6500,50.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Mix,Steel
+Leather,Automatic,41.0,12.3,22.0,Blue,Sapphire,7900,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Manual,44.0,15.65,24.0,Black,Sapphire,7200,300.0,56.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,40.0,8.5,20.0,Other,Sapphire,6500,50.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Manual,42.0,14.3,20.0,Black,Sapphire,5400,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Stainless Steel,Automatic,41.0,10.88,22.0,Black,Sapphire,9700,100.0,46.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,40.0,10.25,20.0,Black,Sapphire,2500,30.0,64.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Stainless Steel,Automatic,42.0,10.88,20.0,Blue,Sapphire,7800,100.0,54.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,33.0,9.96,18.0,Other,Sapphire,13000,30.0,42.0,10K-25K,2.5K-10K,2.5K-10K,Date,Gold
+Leather,Automatic,40.4,12.3,22.0,White,Sapphire,7500,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Other,Automatic,45.0,15.5,23.0,Black,Sapphire,12500,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,42.0,12.8,22.0,Black,Sapphire,6500,100.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Other,Titanium
+Leather,Automatic,39.0,14.5,22.0,Blue,Sapphire,5900,100.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Other,Automatic,41.0,9.8,20.0,Blue,Sapphire,55000,50.0,60.0,50K-70K,10K-25K,10K-25K,Date,Gold
+Other,Automatic,45.0,15.4,23.0,Black,Sapphire,11500,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,43.0,13.0,21.0,Blue,Sapphire,3700,300.0,38.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,43.5,14.47,21.0,Blue,Sapphire,5800,600.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Titanium
+Stainless Steel,Automatic,41.0,10.88,26.0,Black,Sapphire,12000,100.0,46.0,10K-25K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,25000,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,40.5,8.3,20.0,Blue,Sapphire,29800,120.0,45.0,25K-50K,25K-50K,25K-50K,Date,Steel
+Stainless Steel,Automatic,40.0,12.4,20.0,White,Sapphire,13500,100.0,72.0,10K-25K,2.5K-10K,25K-50K,Chronograph,Steel
+Leather,Automatic,42.0,12.67,20.0,Black,Sapphire,5600,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Manual,42.0,13.7,20.0,Black,Hesalite,5500,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Stainless Steel,Automatic,42.0,9.4,24.0,Blue,Sapphire,10000,100.0,50.0,2.5K-10K,10K-25K,2.5K-10K,Date,Steel
+Leather,Automatic,44.0,15.65,24.0,Black,Sapphire,6500,300.0,72.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,40.0,12.5,20.0,Black,Sapphire,9500,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,42.0,12.75,20.0,Blue,Sapphire,6900,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,43.0,12.48,23.0,Other,Sapphire,10000,30.0,68.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,38.0,9.85,20.0,Black,Sapphire,545,100.0,80.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Automatic,44.0,13.05,24.0,Black,Sapphire,6500,300.0,72.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,37.0,8.5,18.0,White,Sapphire,25000,30.0,45.0,10K-25K,25K-50K,10K-25K,Date,Gold
+Rubber,Automatic,42.0,10.5,22.0,Black,Sapphire,8200,50.0,42.0,2.5K-10K,10K-25K,2.5K-10K,Date,Titanium
+Other,Automatic,41.0,11.8,20.0,Blue,Sapphire,9500,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.5,13.0,20.0,Other,Sapphire,4700,150.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,44.0,14.5,22.0,Black,Sapphire,15000,100.0,72.0,10K-25K,10K-25K,10K-25K,Chronograph,Titanium
+Leather,Automatic,41.0,11.5,20.0,Black,Sapphire,1400,200.0,42.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Automatic,42.3,14.2,22.0,White,Sapphire,8800,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,41.0,12.75,22.0,Black,Sapphire,3500,200.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,36.0,12.0,20.0,Other,Sapphire,7500,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,39.0,8.25,20.0,Other,Sapphire,25800,30.0,48.0,25K-50K,25K-50K,10K-25K,Date,Gold
+Leather,Automatic,40.5,8.15,22.0,White,Sapphire,5500,50.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,42.0,11.43,22.0,Black,Sapphire,6200,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Rubber,Automatic,44.0,15.65,24.0,Black,Sapphire,9500,300.0,72.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Titanium
+Rubber,Automatic,44.0,14.5,22.0,Blue,Sapphire,9500,300.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Titanium
+Rubber,Automatic,42.2,12.6,22.0,Blue,Sapphire,8900,100.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,5200,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Manual,38.0,7.45,20.0,Other,Sapphire,23000,30.0,65.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Leather,Quartz,30.0,10.5,17.0,White,Sapphire,5000,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,42.0,13.1,22.0,Other,Sapphire,9400,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,39.0,8.65,20.0,Other,Sapphire,19000,30.0,40.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,24500,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,44.0,16.15,24.0,Black,Sapphire,9500,300.0,72.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Titanium
+Rubber,Automatic,42.0,13.32,20.0,Blue,Sapphire,3600,2000.0,38.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,42.5,13.7,22.0,Blue,Sapphire,20000,150.0,40.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,42.0,10.88,22.0,Blue,Sapphire,9000,100.0,54.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Other,Automatic,45.0,15.5,23.0,Black,Sapphire,13500,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,42.0,14.5,22.0,Black,Sapphire,7200,300.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,42.0,12.67,20.0,Black,Sapphire,5000,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Other,Automatic,45.0,14.7,22.0,Black,Sapphire,3350,500.0,38.0,2.5K-10K,0-2.5K,2.5K-10K,Date,Steel
+Leather,Automatic,42.0,12.8,22.0,Black,Sapphire,3600,100.0,38.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,38.5,9.3,20.0,Blue,Sapphire,1600,30.0,42.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Automatic,40.0,10.3,20.0,Other,Sapphire,2750,50.0,120.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,40.8,8.3,21.0,Blue,Sapphire,51000,120.0,55.0,50K-70K,25K-50K,25K-50K,Date,Steel
+Other,Automatic,45.0,15.5,23.0,Black,Sapphire,14900,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,40.0,12.5,20.0,Black,Sapphire,14000,100.0,48.0,10K-25K,2.5K-10K,2.5K-10K,Other,Steel
+Other,Automatic,37.0,9.8,18.0,Blue,Sapphire,36500,50.0,60.0,25K-50K,10K-25K,10K-25K,Date,Gold
+Rubber,Automatic,42.0,13.07,20.0,Black,Sapphire,6800,50.0,48.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,39.3,9.75,20.0,Other,Sapphire,650,30.0,38.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Automatic,41.0,12.3,22.0,Blue,Sapphire,6900,30.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,42.3,14.2,22.0,White,Sapphire,7800,30.0,46.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Automatic,40.0,5.5,21.0,Black,Sapphire,10000,30.0,55.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Titanium
+Other,Automatic,45.0,15.5,23.0,Black,Sapphire,11000,300.0,120.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,41.0,10.8,20.0,Black,Sapphire,5500,60.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,40.0,10.8,20.0,Black,Sapphire,3900,60.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,42.0,11.4,22.0,White,Sapphire,3900,50.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,41.0,11.8,21.0,Blue,Sapphire,7800,100.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Stainless Steel,Automatic,40.8,8.3,20.0,Blue,Sapphire,57000,120.0,45.0,50K-70K,25K-50K,25K-50K,Date,Steel
+Stainless Steel,Automatic,41.0,9.8,20.0,Black,Sapphire,23100,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,41.0,12.3,22.0,Other,Sapphire,7500,30.0,46.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,41.5,11.0,22.0,Blue,Sapphire,18900,150.0,40.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,28500,50.0,60.0,25K-50K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,41.0,10.4,20.0,Other,Sapphire,21000,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,42.0,12.75,20.0,White,Sapphire,7900,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Mix,Steel
+Leather,Manual,42.9,9.2,20.0,Black,Sapphire,5500,30.0,45.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Leather,Automatic,38.0,12.45,20.0,Other,Sapphire,6200,100.0,50.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Manual,40.0,6.36,20.0,Other,Sapphire,22000,30.0,44.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Stainless Steel,Automatic,42.0,13.5,20.0,Black,Sapphire,6800,50.0,60.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,28500,50.0,60.0,25K-50K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,40.0,6.8,20.0,White,Sapphire,19000,30.0,55.0,10K-25K,10K-25K,10K-25K,Date,Gold
+Leather,Automatic,40.0,10.6,20.0,Other,Sapphire,1200,50.0,38.0,0-2.5K,0-2.5K,0-2.5K,Date,Steel
+Leather,Automatic,41.0,11.9,22.0,Black,Sapphire,3500,200.0,70.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Steel
+Rubber,Automatic,44.0,13.05,24.0,Black,Sapphire,8500,300.0,72.0,2.5K-10K,2.5K-10K,2.5K-10K,Date,Titanium
+Stainless Steel,Automatic,39.0,9.4,20.0,Blue,Sapphire,18900,50.0,60.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Stainless Steel,Automatic,41.0,11.0,22.0,Blue,Sapphire,21000,150.0,40.0,10K-25K,10K-25K,10K-25K,Date,Steel
+Leather,Automatic,39.0,14.0,22.0,Blue,Sapphire,6550,100.0,42.0,2.5K-10K,2.5K-10K,2.5K-10K,Chronograph,Steel
+Leather,Manual,27.5,6.5,18.0,Other,Sapphire,14200,30.0,60.0,10K-25K,2.5K-10K,2.5K-10K,Date,Gold
+Leather,Manual,39.0,10.2,22.0,Other,Sapphire,26000,30.0,40.0,25K-50K,10K-25K,10K-25K,Date,Gold
+Stainless Steel,Quartz,41.0,12.1,20.0,Black,Sapphire,1500,50.0,60.0,0-2.5K,0-2.5K,0-2.5K,Mix,Steel
