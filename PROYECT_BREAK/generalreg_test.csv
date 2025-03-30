@@ -1,0 +1,103 @@
+strap_material,movement_type,case_diameter_(mm),case_thickness_(mm),band_width_(mm),dial_color,crystal_material,price_(usd),water_resistance_numeric,power_reserve_numeric,cluster,complications_group,case_material_group,brand_group_cluster,model_group_cluster
+Stainless Steel,Quartz,43.0,10.8,20.0,Blue,Sapphire,1800,300.0,60.0,0,Date,Steel,0,0
+Other,Automatic,41.0,11.9,22.0,Black,Sapphire,4100,200.0,70.0,0,Date,Steel,0,0
+Leather,Automatic,39.0,8.5,20.0,Other,Sapphire,8200,50.0,70.0,1,Date,Steel,1,1
+Stainless Steel,Automatic,40.0,8.3,20.0,Blue,Sapphire,49800,120.0,45.0,3,Date,Steel,3,3
+Stainless Steel,Automatic,40.0,8.3,22.0,Blue,Sapphire,29000,120.0,45.0,3,Date,Steel,3,3
+Rubber,Automatic,43.0,13.4,23.0,Black,Sapphire,14700,300.0,120.0,2,Date,Steel,2,2
+Rubber,Automatic,45.0,15.4,23.0,Black,Sapphire,13500,300.0,120.0,2,Date,Steel,2,2
+Rubber,Automatic,42.0,13.32,20.0,Blue,Sapphire,3600,500.0,38.0,0,Date,Steel,0,4
+Rubber,Automatic,44.0,14.5,24.0,Black,Sapphire,18500,100.0,72.0,0,Chronograph,Titanium,0,0
+Stainless Steel,Automatic,41.0,10.4,20.0,Black,Sapphire,24000,50.0,60.0,3,Date,Steel,3,3
+Leather,Automatic,39.0,8.5,20.0,Other,Sapphire,7500,50.0,70.0,1,Date,Steel,1,1
+Leather,Automatic,38.0,9.8,20.0,Black,Sapphire,495,100.0,80.0,1,Date,Steel,1,1
+Leather,Manual,38.0,7.8,18.0,Other,Sapphire,23300,30.0,72.0,3,Date,Gold,3,3
+Stainless Steel,Automatic,41.0,11.0,20.0,Black,Sapphire,19200,150.0,60.0,3,Date,Steel,3,3
+Leather,Automatic,44.0,15.65,22.0,Black,Sapphire,7500,300.0,72.0,0,Date,Steel,0,0
+Leather,Automatic,39.0,9.9,19.0,Other,Sapphire,3500,50.0,42.0,1,Date,Steel,0,0
+Stainless Steel,Automatic,41.0,13.2,20.0,Black,Sapphire,2200,300.0,54.0,0,Chronograph,Steel,1,0
+Stainless Steel,Automatic,42.0,13.7,20.0,Black,Sapphire,6500,50.0,60.0,0,Chronograph,Steel,0,0
+Leather,Automatic,41.0,12.3,20.0,Other,Sapphire,6900,30.0,44.0,0,Date,Steel,0,0
+Rubber,Automatic,45.0,15.5,23.0,Black,Sapphire,14000,300.0,120.0,2,Date,Steel,2,2
+Leather,Quartz,44.0,7.3,23.0,Other,Sapphire,5300,30.0,60.0,0,Date,Steel,1,1
+Stainless Steel,Automatic,36.0,12.0,20.0,Black,Sapphire,8100,100.0,70.0,1,Date,Steel,0,1
+Stainless Steel,Automatic,41.0,10.4,20.0,Black,Sapphire,17800,50.0,60.0,3,Date,Steel,3,3
+Leather,Automatic,38.0,8.25,20.0,White,Sapphire,21500,30.0,38.0,3,Date,Gold,3,3
+Leather,Automatic,40.0,9.08,20.0,Other,Sapphire,6600,100.0,42.0,1,Date,Steel,1,1
+Stainless Steel,Automatic,40.0,12.5,20.0,Black,Sapphire,9900,100.0,70.0,0,Date,Steel,0,0
+Leather,Automatic,38.0,12.15,19.0,Other,Sapphire,7500,100.0,50.0,1,Chronograph,Steel,0,0
+Rubber,Automatic,42.0,9.85,22.0,Blue,Sapphire,7500,50.0,42.0,0,Date,Titanium,0,0
+Leather,Automatic,39.0,8.6,20.0,Other,Sapphire,22000,30.0,48.0,3,Date,Gold,3,3
+Leather,Automatic,39.0,10.86,20.0,Black,Sapphire,4500,60.0,42.0,1,Date,Steel,0,0
+Leather,Automatic,33.0,9.96,16.0,Other,Sapphire,4500,30.0,42.0,1,Date,Steel,1,1
+Stainless Steel,Automatic,42.0,10.88,25.0,Black,Sapphire,9500,100.0,46.0,0,Date,Steel,0,0
+Stainless Steel,Automatic,42.0,10.88,22.0,Blue,Sapphire,12800,100.0,54.0,0,Date,Steel,0,0
+Leather,Automatic,42.0,12.75,20.0,Black,Sapphire,6500,100.0,50.0,0,Chronograph,Steel,0,0
+Other,Automatic,45.0,15.4,23.0,Black,Sapphire,15000,300.0,120.0,2,Date,Steel,2,2
+Rubber,Automatic,44.0,14.5,26.0,Black,Sapphire,17900,100.0,72.0,0,Chronograph,Other,0,0
+Leather,Automatic,41.0,13.0,20.0,White,Sapphire,4200,100.0,42.0,0,Chronograph,Steel,0,0
+Stainless Steel,Automatic,40.0,9.08,20.0,Other,Sapphire,6200,100.0,42.0,1,Date,Steel,1,1
+Stainless Steel,Automatic,41.0,10.4,20.0,Blue,Sapphire,20900,50.0,60.0,3,Date,Steel,3,3
+Leather,Automatic,41.0,12.5,20.0,Black,Sapphire,5500,60.0,44.0,0,Mix,Steel,0,0
+Leather,Automatic,41.0,14.75,22.0,Black,Sapphire,3800,200.0,70.0,0,Date,Steel,0,0
+Leather,Automatic,41.0,13.1,20.0,White,Sapphire,7600,30.0,46.0,0,Chronograph,Steel,0,0
+Stainless Steel,Automatic,40.0,9.08,20.0,Other,Sapphire,6500,100.0,42.0,1,Date,Steel,1,1
+Leather,Automatic,42.0,14.05,22.0,Other,Sapphire,6900,50.0,50.0,0,Mix,Steel,0,0
+Other,Eco-Drive,46.0,15.0,23.0,Black,Sapphire,995,200.0,210.0,2,Chronograph,Titanium,2,2
+Rubber,Automatic,44.0,14.2,22.0,Black,Sapphire,4500,200.0,42.0,0,Date,Steel,0,4
+Leather,Automatic,39.0,8.65,20.0,Other,Sapphire,23500,30.0,45.0,3,Date,Gold,3,3
+Stainless Steel,Automatic,42.0,10.88,22.0,Black,Sapphire,11200,100.0,54.0,0,Date,Steel,0,0
+Stainless Steel,Automatic,38.0,10.88,20.0,Blue,Sapphire,12000,100.0,54.0,1,Date,Steel,0,0
+Stainless Steel,Automatic,40.0,13.0,20.0,Black,Sapphire,9500,300.0,48.0,0,Date,Steel,0,0
+Other,Automatic,41.0,12.0,20.0,Black,Sapphire,1800,100.0,38.0,0,Date,Steel,0,0
+Stainless Steel,Automatic,40.0,8.3,20.0,Blue,Sapphire,44000,120.0,55.0,3,Date,Steel,3,3
+Leather,Automatic,41.0,12.5,20.0,Black,Sapphire,4800,60.0,42.0,0,Date,Steel,0,0
+Leather,Automatic,41.0,12.7,22.0,Black,Sapphire,3900,200.0,70.0,0,Date,Steel,0,0
+Leather,Automatic,40.0,12.4,20.0,Other,Sapphire,39500,100.0,72.0,3,Chronograph,Gold,0,3
+Other,Automatic,36.0,12.0,20.0,Blue,Sapphire,7650,100.0,70.0,1,Date,Steel,0,1
+Stainless Steel,Automatic,41.0,10.4,20.0,Other,Sapphire,17000,50.0,60.0,3,Date,Steel,3,3
+Leather,Automatic,44.0,15.65,24.0,Black,Sapphire,7500,100.0,72.0,0,Date,Titanium,0,0
+Leather,Automatic,41.0,13.0,20.0,White,Sapphire,4200,100.0,42.0,0,Chronograph,Steel,0,0
+Leather,Automatic,44.0,15.65,24.0,Black,Sapphire,8000,300.0,72.0,0,Date,Steel,0,0
+Other,Automatic,41.0,12.7,22.0,Black,Sapphire,4500,200.0,70.0,0,Date,Steel,0,0
+Stainless Steel,Automatic,38.0,10.88,25.0,Blue,Sapphire,6700,100.0,54.0,0,Date,Steel,0,0
+Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,25000,50.0,60.0,3,Date,Steel,3,3
+Rubber,Automatic,42.0,13.3,20.0,Blue,Sapphire,3200,500.0,38.0,0,Date,Steel,0,4
+Rubber,Manual,44.0,15.6,24.0,Black,Sapphire,8500,300.0,72.0,0,Date,Titanium,0,0
+Leather,Automatic,40.0,10.8,20.0,Black,Sapphire,4200,60.0,42.0,1,Date,Steel,0,1
+Leather,Automatic,39.0,14.5,22.0,Blue,Sapphire,5200,100.0,40.0,0,Chronograph,Steel,0,0
+Stainless Steel,Automatic,40.0,13.0,20.0,Black,Sapphire,9500,300.0,48.0,0,Date,Steel,0,0
+Other,Automatic,45.0,15.5,22.0,Black,Sapphire,14400,300.0,120.0,2,Date,Steel,2,2
+Leather,Automatic,41.0,15.3,20.0,Black,Sapphire,5900,60.0,42.0,0,Date,Steel,0,0
+Leather,Automatic,41.0,12.3,22.0,Other,Sapphire,8400,30.0,60.0,0,Date,Steel,0,0
+Leather,Automatic,40.0,6.79,20.0,White,Sapphire,15000,30.0,40.0,3,Date,Gold,3,3
+Leather,Manual,37.0,7.5,18.0,Other,Sapphire,17500,30.0,45.0,3,Date,Gold,3,3
+Rubber,Automatic,42.0,9.8,24.0,Black,Sapphire,3800,100.0,40.0,0,Date,Other,0,0
+Stainless Steel,Automatic,42.0,10.88,22.0,Blue,Sapphire,10600,100.0,54.0,0,Date,Steel,0,0
+Stainless Steel,Automatic,41.0,11.7,20.0,White,Sapphire,8000,100.0,70.0,0,Date,Steel,0,1
+Stainless Steel,Automatic,41.0,8.3,20.0,Blue,Sapphire,38000,120.0,45.0,3,Date,Steel,3,3
+Rubber,Automatic,44.0,14.2,22.0,Black,Sapphire,4300,200.0,70.0,0,Date,Steel,0,0
+Rubber,Automatic,44.0,14.5,24.0,Black,Sapphire,13000,100.0,72.0,0,Mix,Titanium,0,0
+Stainless Steel,Automatic,37.0,12.05,18.0,Other,Sapphire,4700,30.0,42.0,1,Date,Steel,1,1
+Stainless Steel,Automatic,41.0,11.0,20.0,Blue,Sapphire,15500,50.0,60.0,3,Date,Steel,3,3
+Stainless Steel,Automatic,42.0,10.88,22.0,Blue,Sapphire,9000,100.0,54.0,0,Date,Steel,0,0
+Leather,Automatic,40.0,9.85,20.0,Black,Sapphire,2700,50.0,38.0,1,Date,Steel,0,1
+Leather,Automatic,40.0,8.8,20.0,Other,Sapphire,6000,50.0,70.0,1,Date,Steel,1,1
+Leather,Automatic,40.0,12.4,20.0,Other,Sapphire,29500,100.0,72.0,3,Chronograph,Gold,0,3
+Stainless Steel,Automatic,42.0,10.88,22.0,Black,Sapphire,9000,100.0,54.0,0,Date,Steel,0,0
+Leather,Manual,40.0,6.79,20.0,Other,Sapphire,28000,30.0,65.0,3,Date,Gold,3,3
+Leather,Automatic,41.0,12.3,22.0,Blue,Sapphire,6500,30.0,60.0,0,Date,Steel,0,0
+Stainless Steel,Manual,42.0,14.3,20.0,Black,Hesalite,5500,50.0,48.0,0,Chronograph,Steel,0,0
+Stainless Steel,Automatic,41.0,11.8,20.0,Black,Sapphire,8200,100.0,70.0,0,Date,Steel,0,1
+Leather,Manual,44.0,13.05,24.0,Black,Sapphire,5700,300.0,56.0,0,Date,Titanium,0,0
+Leather,Automatic,38.0,12.45,20.0,White,Sapphire,5600,100.0,50.0,1,Mix,Steel,0,0
+Leather,Automatic,39.0,7.58,20.0,Other,Sapphire,8900,50.0,70.0,1,Date,Steel,1,1
+Stainless Steel,Manual,42.0,13.75,20.0,Black,Hesalite,5350,50.0,48.0,0,Chronograph,Steel,0,0
+Stainless Steel,Automatic,42.0,10.88,25.0,Black,Sapphire,8000,100.0,46.0,0,Date,Steel,0,0
+Other,Automatic,45.0,15.4,23.0,Black,Sapphire,13900,300.0,120.0,2,Date,Steel,2,2
+Leather,Automatic,43.0,15.0,22.0,Black,Sapphire,4950,60.0,72.0,0,Date,Steel,0,0
+Rubber,Automatic,42.0,10.6,22.0,Black,Sapphire,8100,50.0,42.0,0,Date,Titanium,0,0
+Leather,Automatic,38.0,12.5,20.0,Other,Sapphire,7000,100.0,50.0,1,Chronograph,Steel,0,0
+Stainless Steel,Automatic,41.0,9.8,20.0,Blue,Sapphire,22300,50.0,50.0,3,Mix,Steel,3,3
+Leather,Quartz,31.0,6.05,20.0,Other,Sapphire,2800,30.0,60.0,1,Date,Steel,1,1
+Leather,Automatic,40.0,14.1,20.0,Black,Sapphire,8800,100.0,48.0,0,Mix,Steel,3,0
